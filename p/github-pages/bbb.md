@@ -1,3 +1,3 @@
-[[aaa]]
+[[日本語でれくとり/aaaa]]
 
-[aaa](aaa.md)
+[aaaa](日本語でれくとり/aaaa.md)
