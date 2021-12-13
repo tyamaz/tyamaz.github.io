@@ -88,9 +88,24 @@ Github Pages 上ではこれはディレクトリにある `index.html` とし�
 [hoge](fuga/piyo/hogehoge.md)
 ```
 
-`fuga/piyo/hogehoge.html` へのリンクと解釈される。そしてそのファイルに対しては `fuga/piyo/hogehoge` でも `fuga/piyo/hogehoge.html` でもどれでもページとして表示されるのでこれで問題無い。
+のように生成される。
 
-wiki 形式のリンクは使えない
+
+こいつは `Github Pages` では `fuga/piyo/hogehoge.md` へのリンクと解釈されてしまう。これはすなわち Git 上で管理されている markdown 生ファイルへのリンクになってしまい、html としてのページへのリンクにならない。
+
+なので、リンクを `.md` 抜きにする。
+
+```markdown
+[hoge](fuga/piyo/hogehoge)
+```
+
+このようにすると `Github Pages` 上も生成された HTML へのリンクとして認識されるし、`Obsidian` 上もページへの関連として認識される(Obsidianはリンクを最大限解釈しようとする)ので問題無い。
+
+wiki 形式のリンクは使えない。
+
+この方式にも問題があり、ページ名の変更に対して Obsidian が追従した場合、再び `.md` が付与されてしまうのである。
+
+
 
 ディレクトリへのリンク
 --------------------------------------------------------------------------------
