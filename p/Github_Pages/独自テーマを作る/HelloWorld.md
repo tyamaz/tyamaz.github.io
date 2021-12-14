@@ -211,7 +211,57 @@ $ rougify style gruvbox > gruvbox.css
 
 次に後続のリンクを並べてみる。今回のサイトは、ディレクトリ構造と URL が完全に一致している、書くディレクトリに必ず `index.md` がある前提として作る。
 
-パンくずの階層情報は URL からそのまま取る。`page.url` という変数には最終的に確定した対象のページの URL そのものが入ってくるので、こいつをスラッシュで分解して順番に結合すればパンくずリストになる。多分。
+パンくずの階層情報は URL からそのまま取る。`page.url` という変数には最終的に確定した対象のページの URL そのものが入ってくる(`/hoge/piyo/fuga.html` みたいな形)ので、こいつをスラッシュで分解して順番に結合すればパンくずリストになる。多分。
+
+このようにすることで記述することができた。
+
+{% raw %}
+```html
+    <ol class="breadcrumbs">
+      <li><a href="{{ site.github.url }}">Home</a></li>
+      {% assign crumbs = page.url | split: '/' %}
+      {% assign crumburl = '' %}
+      {% for crumb in crumbs offset: 1 %}
+        {% assign crumburl = crumburl | append: '/' | append: crumb %}
+        {% if forloop.last %}
+        {% else %}
+          <li><a href="{{ crumburl }}">{{ crumb | url_decode }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+```
+{% endraw %}
+
+まず、パンくずというのは順番に並んだリンクのリストという考えなので `ol` タグで実装する。明示的に `class` にもパンくずであることを記述しておく。
+
+`Jetkyll` では `Liquid` と呼ばれるテンプレートエンジン記述を使う。ここでブラケットパーセントで挟まっているところが `Liquid` の記述となる。[Liquid template language](https://shopify.github.io/liquid/)
+
+まず `page.url` で得られるスラッシュ区切りの文字列を `split` の `filter` でスラッシュ指定でバラバラに分解し配列にして `assign` というキーワードを使って `crumbs` という変数に詰めている。
+
+- [Variable – Liquid template language](https://shopify.github.io/liquid/tags/variable/)
+- [split – Liquid template language](https://shopify.github.io/liquid/filters/split/)
+
+`Liquid` では値に対して何か処理を加えるモノを `filter` と言って、シェルスクリプトのように `|` で繋ぐことで組み合わせる。
+
+次にみんな大好きな foreach をやるために `for ... in ...` という構文を使っている。[Iteration – Liquid template language](https://shopify.github.io/liquid/tags/iteration/)
+
+`crumbs` の内容が1個1個 `crumb` に代入されながらループするというお馴染みの構文である。`offset` という記述があるが、これはスタートのインデックスを1個だけ後ろにズラして開始するということになる。何故かというと、`page.url` で得られる内容はスラッシュで始まるので最初の1個目が必ず空になってしまうからである。
+
+次に、`append` filter で文字列を結合している。`crumburl` という変数に対してスラッシュで積み上げていくことでパンくずの URL を生成することをしている。
+
+最後にそれらを使って `a` タグを組み立てている。日本語名が含まれる URL は [urlエンコード](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0)されているので、表示の部分だけ `url_decode` filter を使って元に戻している。
+
+`forloop` というのは `for` のブロック内部で使える暗黙的な変数でここからループ状態を取ることができる。今回は `forloop.last` を使って最後のループか否かを判定している。`page.url` の最後の部分を指すので、つまりそれはこのページ自身なのでパンくずとして不要なので飛ばすということである。
+
+
+
+
+
+
+
+
+
+
 
 
 
