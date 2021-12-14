@@ -10,7 +10,10 @@
       {% assign crumburl = '' %}
       {% for crumb in crumbs offset: 1 %}
         {% assign crumburl = crumburl | append: '/' | append: crumb %}
-        <li><a href="{{ crumburl }}">{{ crumb | url_decode }}</a></li>
+        {% if forloop.last %}
+        {% else %}
+          <li><a href="{{ crumburl }}">{{ crumb | url_decode }}</a></li>
+        {% endif %}
       {% endfor %}
     </ol>
     {{ content }}
