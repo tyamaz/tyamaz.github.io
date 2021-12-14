@@ -8,6 +8,10 @@
       <li><a href="{{ site.github.url }}">Home</a></li>
     </ol>
     <div>{{ page.url }}</div>
+    {% assign crumbs = page.url | split: '/' %}
+    {% for crumb in crumbs offset: 1 %}
+      <div>{{ crumb }}</div>
+    {% endfor %}">
     {{ content }}
   </body>
 </html>
