@@ -29,9 +29,22 @@ render_with_liquid: false
 {% endraw %}
 
 
-余談だが、Jekyll のエンジンが markdown の解釈よりも優先して行われるので、 markdown 自体で Jekyll のエンジンの説明をする場合 markdown 全体を `raw`, `endraw` で括らないといけない。
+余談だが、Jekyll の `Liquid` 解釈が markdown の解釈よりも優先して行われるので、 markdown 自体で Jekyll の説明を書く場合 markdown 全体を `raw`, `endraw` で括らないといけない。
 
 markdown のファイル中の `Liquid` コードを一括で無効化するオプションは無いっぽい。
+
+`Jekyll 4.0` 以降は、該当のドキュメントの `frontmatter` にこのように記述すると抑止できるっぽい。
+
+```yml
+render_with_liquid: false
+```
+
+しかし、2021-12-14 現在、Github Pages の Jekyll は `3.9` っぽいのでこれは機能しない。[Jekyll 4 Released](https://jekyllrb.com/news/2019/08/20/jekyll-4-0-0-released/), [Dependency versions GitHub Pages](https://pages.github.com/versions/)
+
+このリリースが2年も前なので、互換性の問題でどうにもならん問題があるんだろうと想像できる。
+
+
+
 
 
 シンタックスハイライトを設定する
@@ -195,6 +208,11 @@ $ rougify style gruvbox > gruvbox.css
 
 
 リンクがちゃんと表示された。
+
+次に後続のリンクを並べてみる。今回のサイトは、ディレクトリ構造と URL が完全に一致している、書くディレクトリに必ず `index.md` がある前提として作る。
+
+
+
 
 
 
