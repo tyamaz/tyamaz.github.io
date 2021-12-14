@@ -1,3 +1,9 @@
+---
+render_with_liquid: false
+---
+
+2021-12-14 付近での話
+
 独自のテンプレートを作る
 ================================================================================
 
@@ -24,6 +30,8 @@
 
 
 余談だが、Jekyll のエンジンが markdown の解釈よりも優先して行われるので、 markdown 自体で Jekyll のエンジンの説明をする場合 markdown 全体を `raw`, `endraw` で括らないといけない。
+
+markdown のファイル中の `Liquid` コードを一括で無効化するオプションは無いっぽい。
 
 
 シンタックスハイライトを設定する
@@ -180,12 +188,13 @@ $ rougify style gruvbox > gruvbox.css
 {% raw %}
 ```html
 <ol class="breadcrumbs">
-  <li><a href="{{ site.baseurl }}">Home</a></li>
+  <li><a href="{{ site.github.url }}">Home</a></li>
 </ol>
 ```
 {% endraw %}
 
 
+リンクがちゃんと表示された。
 
 
 
