@@ -1,3 +1,6 @@
+独自のテンプレートを作る
+================================================================================
+
 ルートディレクトリに `_layouts` というディレクトリを設置する。
 
 その中に `default.html` というファイルを作りそこにこのように書き込む
@@ -20,14 +23,16 @@
 {% endraw %}
 
 
-余談としてだが、Jekyll のエンジンが markdown の解釈よりも優先して行われるので、 markdown 自体で Jekyll のエンジンの説明をする場合 markdown 全体を `raw` `endraw` で括らないといけない。
+余談だが、Jekyll のエンジンが markdown の解釈よりも優先して行われるので、 markdown 自体で Jekyll のエンジンの説明をする場合 markdown 全体を `raw`, `endraw` で括らないといけない。
 
 
+シンタックスハイライトを設定する
+================================================================================
 このままだとシンタックスハイライトが付かないのでそれは不味いのでつける。
 `gruvbox` が好きなのでそれをやってみる
 
 
-`Github Pages` は `rouge` という Ruby ライブラリでハイライトされているようで、その付属ツールである `rougify` でそのハイライト用のコードを吐き出せるようだ。
+`Github Pages` は `rouge` という Ruby ライブラリでハイライトされているようで、その付属ツールである `rougify` でそのハイライト用のコードを吐き出せるようだ。`Ruby` や `rouge` のインストールに関しては他で。
 
 とりあえず内蔵テーマを見る。
 
@@ -47,7 +52,11 @@ options:
               	implies --tex if specified
 
 available themes:
-  base16, base16.dark, base16.light, base16.monokai, base16.monokai.dark, base16.monokai.light, base16.solarized, base16.solarized.dark, base16.solarized.light, bw, colorful, github, gruvbox, gruvbox.dark, gruvbox.light, igorpro, magritte, molokai, monokai, monokai.sublime, pastie, thankful_eyes, tulip
+  base16, base16.dark, base16.light, base16.monokai,
+  base16.monokai.dark, base16.monokai.light, base16.solarized,
+  base16.solarized.dark, base16.solarized.light, bw, colorful,
+  github, gruvbox, gruvbox.dark, gruvbox.light, igorpro, magritte,
+  molokai, monokai, monokai.sublime, pastie, thankful_eyes, tulip
 ```
 
 ということで `gruvbox` があるので、こいつを吐き出す
@@ -58,13 +67,16 @@ $ rougify style gruvbox > gruvbox.css
 
 こんなの CDN ありそうなんだが無いっぽい。
 
-テーマでは `/assets/css/style.css` のスタイルをまず読み込むのが定番らしい
+テーマでは `/assets/css/style.css` のスタイルをまず読み込むのが作法っぽい。
 
-`/asset/css/style.scss` というファイルを作る。`Github Pages` の機能で `.scss` が `css` にコンパイルされるっぽい
+そのために、 `/asset/css/style.scss` というファイルを作る。`Github Pages` の機能で `.scss` が `css` にコンパイルされるっぽい。
 
-`style.scss` ファイルにさっきの `gruvbox.css` 内容を書き込む、`SCSS` は `CSS` と文法に互換があるので、`CSS` は上手くない `SCSS` として通用する。
+`style.scss` ファイルにさっきの `gruvbox.css` の内容を書き込む、`SCSS` は `CSS` と文法に互換があるので、`CSS` は上手くない `SCSS` として通用する。以下のようになる。
 
 ```css
+---
+---
+
 .highlight, .highlight .w {
   color: #fbf1c7;
   background-color: #282828;
@@ -149,7 +161,7 @@ $ rougify style gruvbox > gruvbox.css
 ```
 
 斜体のスタイルが邪魔なので除去した。
-
+この エントリポイントとなる `SCSS` を書く場合に忘れてはいけないのがファイルの冒頭に `Frontmatter` が必要になるということ。冒頭のハイフンの区切りを2行はそういう意味になる。これが無いと `Github Pages` にコンパイルされずに `CSS` として認識されない。
 
 `default.html` にこいつを書き加える
 
@@ -157,6 +169,9 @@ $ rougify style gruvbox > gruvbox.css
 ```html
 <link rel="stylesheet" href="/assets/css/style.css" />
 ```
+
+ここで、もし何らかの原因で `style.css` が読み込めなかった場合にも、適当な `style.css` が自動生成されて、勝手にデフォルトのスタイルが当たってしまうので、自分の書いたスタイルじゃないと思ったら、それを疑うとよい。
+
 
 
 
