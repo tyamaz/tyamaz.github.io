@@ -6,14 +6,13 @@
   <body>
     <ol class="breadcrumbs">
       <li><a href="{{ site.github.url }}">Home</a></li>
+      {% assign crumbs = page.url | split: '/' %}
+      {% assign crumburl = '' %}
+      {% for crumb in crumbs offset: 1 %}
+        {% assign crumburl = crumburl | append: '/' | append: crumb %}
+        <li><a href="{{ crumburl }}">{{ crumb }}</a></li>
+      {% endfor %}
     </ol>
-    <div>{{ page.url }}</div>
-    {% assign crumbs = page.url | split: '/' %}
-    {% assign crumburl = '/' %}
-    {% for crumb in crumbs offset: 1 %}
-      {% assign crumburl = crumburl | append: crumb %}
-      <div>{{ crumburl }}</div>
-    {% endfor %}"
     {{ content }}
   </body>
 </html>
