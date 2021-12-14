@@ -249,9 +249,128 @@ $ rougify style gruvbox > gruvbox.css
 
 次に、`append` filter で文字列を結合している。`crumburl` という変数に対してスラッシュで積み上げていくことでパンくずの URL を生成することをしている。
 
-最後にそれらを使って `a` タグを組み立てている。日本語名が含まれる URL は [urlエンコード](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0)されているので、表示の部分だけ `url_decode` filter を使って元に戻している。
+最後にそれらを使って `a` タグを組み立てている。日本語名が含まれる URL は [urlエンコード](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0)されているので、表示の部分だけ `url_decode` filter を使って元に戻している。[url\_decode – Liquid template language](https://shopify.github.io/liquid/filters/url_decode/)
 
 `forloop` というのは `for` のブロック内部で使える暗黙的な変数でここからループ状態を取ることができる。今回は `forloop.last` を使って最後のループか否かを判定している。`page.url` の最後の部分を指すので、つまりそれはこのページ自身なのでパンくずとして不要なので飛ばすということである。
+
+
+CSS を整理する
+================================================================================
+パンくずのスタイルを書くにあたって現状 `style.scss` に全部ベタ書きしているモノをやや整理する。
+
+`_scss` というディレクトリを作ってここに `SCSS` のファイルを設置してそいつを `import` するというのが定番のやり方のようだ。
+
+この前のコードハイライトの CSS を `_scss/_code_highlight.scss` として、切り出す。ファイル名の先頭にアンダースコアが付いているのは、こうしておくことで、単体の SCSS ファイルとは見なされなくなり、単独コンパイルされて  CSS ファイルが生成されなくなる。つまり import して使われる専用のファイルとなる。
+
+
+ついでに [css2sass \| Convert CSS Snippets to Syntactically Awesome StyleSheets code](http://css2sass.herokuapp.com/) こういうツールがあったので、現状の CSS 記述を SCSS 記述に変換してみる。
+
+```scss
+.highlight {
+  color: #fbf1c7;
+  background-color: #282828;
+
+  .w {
+    color: #fbf1c7;
+    background-color: #282828;
+  }
+
+  .err {
+    color: #fb4934;
+    background-color: #282828;
+    font-weight: bold;
+  }
+
+  .c, .ch, .cd, .cm, .cpf, .c1, .cs {
+    color: #928374;
+  }
+
+  .cp {
+    color: #8ec07c;
+  }
+
+  .nt {
+    color: #fb4934;
+  }
+
+  .o, .ow, .p, .pi {
+    color: #fbf1c7;
+  }
+
+  .gi {
+    color: #b8bb26;
+    background-color: #282828;
+  }
+
+  .gd {
+    color: #fb4934;
+    background-color: #282828;
+  }
+
+  .gh {
+    color: #b8bb26;
+    font-weight: bold;
+  }
+
+  .k, .kn, .kp, .kr, .kv {
+    color: #fb4934;
+  }
+
+  .kc {
+    color: #d3869b;
+  }
+
+  .kt {
+    color: #fabd2f;
+  }
+
+  .kd {
+    color: #fe8019;
+  }
+
+  .s, .sb, .sc, .dl, .sd, .s2, .sh, .sx, .s1, .si, .sr {
+    color: #b8bb26;
+  }
+
+  .sa {
+    color: #fb4934;
+  }
+
+  .se {
+    color: #fe8019;
+  }
+
+  .nn, .nc {
+    color: #8ec07c;
+  }
+
+  .no {
+    color: #d3869b;
+  }
+
+  .na {
+    color: #b8bb26;
+  }
+
+  .m, .mb, .mf, .mh, .mi, .il, .mo, .mx {
+    color: #d3869b;
+  }
+
+  .ss {
+    color: #83a598;
+  }
+}
+```
+
+ぐっと読みやすく整理された。
+
+
+
+
+
+
+
+
 
 
 
