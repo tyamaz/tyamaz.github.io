@@ -69,7 +69,7 @@ $ rougify style gruvbox > gruvbox.css
 
 テーマでは `/assets/css/style.css` のスタイルをまず読み込むのが作法っぽい。
 
-そのために、 `/asset/css/style.scss` というファイルを作る。`Github Pages` の機能で `.scss` が `css` にコンパイルされるっぽい。
+そのために、 `/asset/css/style.scss` というファイルを作る。`Github Pages` の機能で `.scss` が `css` にコンパイルされるっぽい。[Sass: Sass Basics](https://sass-lang.com/guide)
 
 `style.scss` ファイルにさっきの `gruvbox.css` の内容を書き込む、`SCSS` は `CSS` と文法に互換があるので、`CSS` は上手くない `SCSS` として通用する。以下のようになる。
 
@@ -161,7 +161,7 @@ $ rougify style gruvbox > gruvbox.css
 ```
 
 斜体のスタイルが邪魔なので除去した。
-この エントリポイントとなる `SCSS` を書く場合に忘れてはいけないのがファイルの冒頭に `Frontmatter` が必要になるということ。冒頭のハイフンの区切りを2行はそういう意味になる。これが無いと `Github Pages` にコンパイルされずに `CSS` として認識されない。
+この エントリポイントとなる `SCSS` を書く場合に忘れてはいけないのがファイルの冒頭に `Frontmatter` が必要になるということ。冒頭のハイフンの区切り2行はそういう意味になる。これが無いと `Github Pages` にコンパイルされずに `CSS` として認識されない。
 
 `default.html` にこいつを書き加える
 
@@ -171,6 +171,19 @@ $ rougify style gruvbox > gruvbox.css
 ```
 
 ここで、もし何らかの原因で `style.css` が読み込めなかった場合にも、適当な `style.css` が自動生成されて、勝手にデフォルトのスタイルが当たってしまうので、自分の書いたスタイルじゃないと思ったら、それを疑うとよい。
+
+
+パンくずリストを作る
+================================================================================
+パンくずリストを作る。`_layouts/default.html` へまずこのように追加する。
+
+{% raw %}
+```html
+<ol class="breadcrumbs">
+  <li><a href="{{ site.baseurl }}">Home</a></li>
+</ol>
+```
+{% endraw %}
 
 
 
