@@ -434,6 +434,14 @@ title: hogehoge
 
 
 
+`h1` タグもこのように追加すればいい
+
+{% raw %}
+```html
+<h1>{{ page.title }}</h1>
+```
+{% nedraw %}
+
 
 
 
