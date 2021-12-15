@@ -2,8 +2,18 @@
 ---
 
 body{
-    background-color: #364549;
-    color: #fbf1c7;
+  background-color: #364549;
+  color: #fbf1c7;
+}
+a{
+  color: #fe8019;
+  text-decoration: none;
+}
+a:hover{
+    color: #83a598;
+}
+p > code{
+  background-color: #282828;
 }
 
 
