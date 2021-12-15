@@ -1,5 +1,6 @@
 ---
 render_with_liquid: false
+title: Github Pages / 独自テーマを作る / HelloWorld
 ---
 
 2021-12-14 付近での話
@@ -401,10 +402,35 @@ ol.breadcrumbs{
   '_breadcrumbs';
 ```
 
+title をつける
+================================================================================
+ページごとにタイトルをつけられるようにする。
+
+URLとタイトルが完全対応するわけで無い場合も多いので独自に設定できるようにする。
 
 
+これは簡単で、対象の markdown ファイルの `frontmatter` に対して
 
+```yml
+title: hogehoge
+```
 
+と書けばいい。
+
+これを `h1` タグと `title` タグで埋め込むように `default.html` を編集する。
+
+こんな感じで。
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>{{ page.title }}</title>
+```
+
+ページ制御のための定番のメタ情報をいくつか追加しておく。
 
 
 
