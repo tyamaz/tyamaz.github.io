@@ -420,7 +420,9 @@ title: hogehoge
 これを `h1` タグと `title` タグで埋め込むように `default.html` を編集する。
 
 こんな感じで。
+
 {% raw %}
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -429,7 +431,9 @@ title: hogehoge
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>{{ page.title }}</title>
 ```
-{% nedraw %}
+
+{% endraw %}
+
 ページ制御のための定番のメタ情報をいくつか追加しておく。
 
 
@@ -437,10 +441,12 @@ title: hogehoge
 `h1` タグもこのように追加すればいい
 
 {% raw %}
+
 ```html
 <h1>{{ page.title }}</h1>
 ```
-{% nedraw %}
+
+{% endraw %}
 
 
 
