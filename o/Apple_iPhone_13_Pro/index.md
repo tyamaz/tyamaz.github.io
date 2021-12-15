@@ -1,5 +1,6 @@
 ---
 title: Apple iPhone 13 Pro
+tags: [smartphone, iPhone, Apple, shopping]
 ---
 
 購入
