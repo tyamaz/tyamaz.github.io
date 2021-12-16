@@ -57,8 +57,10 @@ div.highlighter-rouge{
   border-radius: 4px;
 }
 body > ul{
-  margin-left: $base-size * 2;
   margin-bottom: $base-size;
+}
+ul{
+  margin-left: $base-size * 2;
 }
 
 
