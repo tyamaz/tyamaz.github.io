@@ -457,6 +457,60 @@ title: hogehoge
 
 ビルドをミスは、その対象のファイルとちょっとしたエラーメッセージが Github のアカウントのメールに送られるのでそれを確認すれば大体わかる。
 
+フォントを指定する
+================================================================================
+今回は本文部分を `Noto Sans JP` 英語の monospace フォント部分を `Fira Mono` にしようと思う。
+
+- [Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)
+- [Fira Mono](https://fonts.google.com/specimen/Fira+Mono)
+
+構成としては、[Firge ファージ](https://github.com/yuru7/Firge) というフォントと同じような感じになる。Web では複数のフォントを使い分けられるので、合成フォント的なことができる。
+
+
+まず↑の Google fonts の Noto Sans Japanese のページに行って、下の方の `styles` の項目を見る。
+
+各ウェイトがあるので必要なものの `select this style` をクリックする。
+今回は `400`, `700` を選ぶ。
+
+同じように `Fira Mono` に関しても行う。
+
+そうすると、ページの右端に `Selected families` という欄が出てくるのでそこに示されている HTML と CSS を控えておく。
+
+```html
+<link rel="preconnect" href="https://fonts.googleapis.com">  
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>  
+<link href="https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+```
+
+```CSS
+font-family: 'Fira Mono', monospace;
+font-family: 'Noto Sans JP', sans-serif;
+```
+
+こんな感じになっているはず。
+
+この HTML 部分を `default.html` へ書き込む。
+
+そして全体である。`body` 部分に `Noto Sans JP` 指定し、コードブロック部分に `Fira Mono` と `Noto Sans JP` 指定する。`Fira Mono` は英字フォントなので日本語が無いのでそこは `Noto Sans JP` でカバーする。日本語フォントはほとんどプロポーショナルかどうかが関係無いのでこれでOKとする。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
