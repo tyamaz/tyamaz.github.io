@@ -1,4 +1,4 @@
 - [プログラミング系の何か](p/index.md)
 - [コンテンツ系の何か](c/index.md)
 - [なんかモノ](o/index.md)
-- [なんか旅](t/index.md)
+- [その他](etc/index.md)
