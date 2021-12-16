@@ -13,7 +13,7 @@ body{
   font-family: 'Noto Sans JP', sans-serif;
 }
 h1{
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 h2{
   font-size: 1.5rem;
@@ -37,7 +37,9 @@ p > code{
   font-family: 'Fira Mono', 'Noto Sans JP', monospace;
 }
 div.highlighter-rouge{
+  background-color: #282828;
   margin-bottom: $base-size;
+  padding: $base-size;
 }
 
 
