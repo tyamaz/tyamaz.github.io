@@ -38,8 +38,12 @@ p > code{
 }
 div.highlighter-rouge{
   background-color: #282828;
+  
+  margin-right: $base-size;
+  margin-left: $base-size;
   margin-bottom: $base-size;
-  padding: $base-size;
+
+  padding: $base-size * 0.5;
 }
 
 
