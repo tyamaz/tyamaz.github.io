@@ -12,6 +12,12 @@ body{
   color: #fbf1c7;
   font-family: 'Noto Sans JP', sans-serif;
 }
+h1{
+  font-size: 2.5rem;
+}
+h2{
+  font-size: 1.5rem;
+}
 a{
   color: #fe8019;
   text-decoration: none;
@@ -29,6 +35,9 @@ p > code{
   border-radius: 4px;
   padding: 2px 4px;
   font-family: 'Fira Mono', 'Noto Sans JP', monospace;
+}
+div.highlighter-rouge{
+  margin-bottom: $base-size;
 }
 
 
