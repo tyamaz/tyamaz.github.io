@@ -482,7 +482,7 @@ title: hogehoge
 <link href="https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
 ```
 
-```CSS
+```css
 font-family: 'Fira Mono', monospace;
 font-family: 'Noto Sans JP', sans-serif;
 ```
