@@ -11,6 +11,7 @@ body{
   background-color: #364549;
   color: #fbf1c7;
   font-family: 'Noto Sans JP', sans-serif;
+  font-size: 18px;
 }
 h1{
   font-size: 2rem;
@@ -38,6 +39,8 @@ p{
   margin-bottom: $base-size;
   margin-right: $base-size;
   margin-left: $base-size;
+  text-align: justify;
+  letter-spacing: 2px;
 }
 p > code{
   background-color: #282828;
