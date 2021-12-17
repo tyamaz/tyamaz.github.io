@@ -11,19 +11,21 @@ body{
   background-color: #364549;
   color: #fbf1c7;
   font-family: 'Noto Sans JP', sans-serif;
-  font-size: 18px;
 }
 h1{
+  letter-spacing: 2px;
   font-size: 2rem;
   font-weight: bold;
 }
 h2{
+  letter-spacing: 2px;
   font-size: 1.5rem;
   color: #d79921;
   
   font-weight: bold;
 }
 h3{
+  letter-spacing: 2px;
   color: #98971a;
   font-weight: bold;
 }
@@ -64,6 +66,9 @@ body > ul{
 }
 ul{
   margin-left: $base-size * 2;
+  li{
+    letter-spacing: 2px;
+  }
 }
 
 
