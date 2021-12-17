@@ -7,6 +7,8 @@ title: PGM
 - [Java](Java/index.md)
 - [Obsidian](Obsidian/index.md)
 - [Github Pages](Github_Pages/index.md)
+- [ブラウザ](browser/index.md)
+
 
 
 
