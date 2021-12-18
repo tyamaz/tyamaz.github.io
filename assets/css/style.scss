@@ -12,6 +12,7 @@ body{
   color: #fbf1c7;
   font-family: 'Noto Sans JP', sans-serif;
   border-left: $base-size solid #282828;
+  min-height: 100vh;
 }
 h1{
   font-size: 2rem;
