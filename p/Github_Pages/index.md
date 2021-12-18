@@ -1,9 +1,15 @@
-Github Pages に関する何か。この中の大半が markdown と Jekyll に関する説明。Github Pages が提供する素の機能を使ってどうするのかという話。`Actions` を使ったりローカルでビルドするのはある意味なんでもできるので別にここで説明する必要もない。
+---
+title: Github Pages
+---
+
+`Github` が提供している Web サイトのホスティングサービス。`Github` の `Git` のリポジトリでコンテンツを管理できるという特徴がある。
+
+※ ここでの記録の大半が `Github Pages` 特有でもない `markdown` と `Jekyll` に関する説明になると思う。Github Pages が提供する素の機能を使ってどうするのかという話。`Github Actions` を使ったりローカルでビルドするのはある意味なんでもできるので別にここで説明しないと思う。
 
 
 
 - [独自テーマを作る](独自テーマを作る/index.md)
-- [markdown](markdown/index.md)
+- [Markdown](markdown/index.md)
 - [Obsidian_で_Github_Pages_用の_markdown_ファイルを編集](../Obsidian/Obsidian_で_Github_Pages_用の_markdown_ファイルを編集.md)
 
 

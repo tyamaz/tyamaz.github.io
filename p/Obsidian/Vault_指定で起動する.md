@@ -2,7 +2,7 @@
 title: Obsidian / Vault 指定で起動する
 ---
 
-Vault(保管庫)指定で起動する方法。
+Vault(保管庫)指定で起動する方法。Windows編。
 
 通常はこのような場合はコマンドラインの起動オプションを指定するのが普通だが、Obsidian は `Obsidian URI` なるものを使うようだ。
 

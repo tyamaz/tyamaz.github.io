@@ -1,4 +1,8 @@
-Web 上のコンテンツを適当に集めて書く
+---
+title: Web
+---
+
+Web 上のコンテンツを適当に集める
 
 - [nippper ニッパーを握るすべての人と、モケイの楽しさをシェアするサイト](https://nippper.com/)
 - [超音速備忘録](https://wivern.exblog.jp/)
