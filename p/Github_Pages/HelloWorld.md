@@ -1,6 +1,6 @@
 ---
 render_with_liquid: false
-title: Github Pages / 独自テーマを作る / HelloWorld
+title: Github Pages / HelloWorld
 ---
 
 2021-12-14 付近での話
