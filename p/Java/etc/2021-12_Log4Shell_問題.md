@@ -5,7 +5,7 @@ title: 2021年12月 Log4Shell 問題
 2021年12月付近に大きな問題になった `Log4j2` の脆弱性を利用した任意のコード実行できるやつ。
 適当に調べた結果を適当にまとめた。
 
-[Log4j – Apache Log4j 2](https://logging.apache.org/log4j/2.x/)
+- [Log4j – Apache Log4j 2](https://logging.apache.org/log4j/2.x/)
 
 
 この問題は `CVE-2021-44228`、 通称 `Log4Shell` となっている。`Log4j` というのが Logging For Java で今回はこの問題がシステムのシェルコマンドを実行するために用いられたので `Log4Shell` とは上手いネーミング。
