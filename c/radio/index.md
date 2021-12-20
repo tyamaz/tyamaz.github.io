@@ -15,7 +15,7 @@ Rebuild.fm
 - [Rebuild\.fm \- Wikipedia](https://ja.wikipedia.org/wiki/Rebuild.fm)
 
 
-アメリカ、最近のシステム開発、海外在住、プログラマ文化、な話。
+アメリカ、システム開発、海外在住、プログラマ文化、な話。
 テック系と呼ばれるがテック界の話題はあるが、具体的なシステム開発のテクニカルな話はあんまり無い。
 
 
@@ -24,7 +24,7 @@ backspace.fm
 
 - [backspace\.fm最新エピソード – backspace\.fm](https://backspace.fm/)
 
-アメリカ、ガジェット、ハードウェア、海外在住、車、仕事術
+アメリカ、ガジェット、自作PC、カメラ、AV、海外在住、車、仕事術
 
 
 
