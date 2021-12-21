@@ -1,5 +1,5 @@
 ---
-title: ♨️ Java
+title: ☕ Java
 ---
 
 - [etc](etc/index.md)
