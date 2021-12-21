@@ -1,5 +1,5 @@
 ---
-title: Obsidian
+title: 💎 Obsidian
 ---
 
 メモツール Obsidian に関してのこと
