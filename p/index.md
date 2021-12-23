@@ -10,6 +10,7 @@ title: 🖖 PGM
 - [ブラウザ](browser/index.md)
 - [Apache](Apache/index.md)
 - [CSS](CSS/index.md)
+- [WordPress](WordPress/index.md)
 
 
 
