@@ -9,3 +9,4 @@ title: Keyboard
 - 外部リンク
   - [Trang chủ Akko Việt Nam – AKKO\.VN](https://akko.vn/)
   - [Advantage360 Split Ergonomic Keyboard \| Kinesis](https://kinesis-ergo.com/keyboards/advantage360/)
+  - [Linux用キーリマッパーxremapをRustで書き直した \- k0kubun's blog](https://k0kubun.hatenablog.com/entry/xremap)
