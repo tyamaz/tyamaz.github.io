@@ -6,3 +6,4 @@ title: その他
 
 - [語学](lang/index.md)
 - [地域](area/index.md)
+- [🎸 楽器](楽器/index.md)
