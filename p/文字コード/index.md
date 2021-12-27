@@ -2,6 +2,7 @@
 title: 文字コード
 ---
 
+- [emoji](emoji/index.md)
 
 
 
