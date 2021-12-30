@@ -2,6 +2,7 @@
 title: Google Chrome / Bookmarklet を作る
 aliases:
   - Google Chrome / Bookmarklet を作る
+  - ブックマークレットを作る
 tags: [ブックマークレット]
 ---
 
@@ -45,7 +46,7 @@ tags: [ブックマークレット]
 
 このへん [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax#backslash) に基づいて title 部分をエスケープする
 
-URL 部分は、括弧部分だけ markdown にひっかかるのでそこを urlencode する。
+URL 部分は、括弧部分だけ markdown にひっかかるのでそこを urlencode する。あまりなさそうに思えるが Wikipedia のリンクで高頻度で登場するので必要になる。
 
 最後にできあがった markdown をクリップボードに突っ込む
 
@@ -56,6 +57,13 @@ URL欄に突っ込むという性質上、JS なんでも入れられるわけ�
 
 簡単に言うと、いろんな記号をエスケープして1行で書く必要がある。
 結構面倒なので、[Bookmarkleter](https://chriszarate.github.io/bookmarkleter/) このような変換ツールがあるのでつっこめばそれをやってくれる。
+
+↑をやったものが
+
+```
+javascript:void%20function(){let%20a=location.href;a=a.split(%22(%22).join(%22%2528%22),a=a.split(%22)%22).join(%22%2529%22);let%20b=document.querySelector(%22title%22).innerText.split(%22\n%22).join(%22%20%22).trim();b=b.split(%22\\%22).join(%22\\\\%22),b=b.split(%22`%22).join(%22\\`%22),b=b.split(%22*%22).join(%22\\*%22),b=b.split(%22_%22).join(%22\\_%22),b=b.split(%22[%22).join(%22\\[%22),b=b.split(%22]%22).join(%22\\]%22),b=b.split(%22{%22).join(%22\\{%22),b=b.split(%22}%22).join(%22\\}%22),b=b.split(%22(%22).join(%22\\(%22),b=b.split(%22)%22).join(%22\\)%22),b=b.split(%22+%22).join(%22\\+%22),b=b.split(%22-%22).join(%22\\-%22),b=b.split(%22.%22).join(%22\\.%22),b=b.split(%22!%22).join(%22\\!%22),b=b.split(%22%23%22).join(%22\\%23%22);const%20c=%22[%22+b+%22](%22+a+%22)%22;navigator.clipboard.writeText(c)}();
+```
+
 
 
 使う

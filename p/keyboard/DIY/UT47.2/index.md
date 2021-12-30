@@ -1,5 +1,7 @@
 ---
 title: Keyboard / UT47.2
+aliases:
+  - Keyboard / UT47.2
 ---
 
 GNAP を元にしたキーボード UT47 のバージョン2。Promicro ではなくチップ直付けで薄型化を図っている。

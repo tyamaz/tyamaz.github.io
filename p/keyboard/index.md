@@ -1,5 +1,8 @@
 ---
 title: Keyboard
+aliases:
+  - Keyboard
+  - キーボード
 ---
 
 キーボードに関するイロイロ

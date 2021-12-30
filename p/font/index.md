@@ -1,5 +1,8 @@
 ---
 title: Font
+aliases:
+  - Font
+  - フォント
 ---
 
 フォントに関する話題
@@ -10,5 +13,8 @@ title: Font
   - [Noto Sans Japanese \- Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans+JP)
   - [Fira Mono \- Google Fonts](https://fonts.google.com/specimen/Fira+Mono)
   - [電光掲示板の雰囲気が出るフリーの日本語ドットフォント](https://at.sachi-web.com/font_electronic-billboards.html)
+  - [VL Gothic Font Family](http://vlgothic.dicey.org/)
+  - [オリジナルフォント【みかちゃん】](http://www.mia-lab.com/mf/)
+  - [あんずいろapricot×color](http://www8.plala.or.jp/p_dolce/)
 
 

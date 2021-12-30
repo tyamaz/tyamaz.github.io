@@ -1,5 +1,7 @@
 ---
 title: SCSS
+aliases:
+  - SCSS
 ---
 
 
@@ -18,7 +20,7 @@ SCSS はイロイロ経緯があるっぽい。
 - LibSass
   - C++ 実装。他の環境が読み込んで使う前提
 - Dart Sass
-  - Dart 実装。公式の推奨環境。動作が速い。
+  - Dart 実装。現在進行形の公式の推奨環境。動作が速い。
 - jSass
   - Java 実装。Ruby にはそもそも JRuby という Java 実装があるのであえて作る理由があんのかとも思う。
 

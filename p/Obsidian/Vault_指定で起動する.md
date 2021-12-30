@@ -1,5 +1,7 @@
 ---
 title: Obsidian / Vault 指定で起動する
+aliases:
+  - Obsidian / Vault 指定で起動する
 ---
 
 Vault(保管庫)指定で起動する方法。Windows編。

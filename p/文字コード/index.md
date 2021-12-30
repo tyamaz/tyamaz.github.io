@@ -1,5 +1,7 @@
 ---
 title: 文字コード
+aliases:
+  - 文字コード
 ---
 
 - [emoji](emoji/index.md)

@@ -1,5 +1,8 @@
 ---
 title: Keyboard / DIY
+aliases:
+  - Keyboard / DIY
+  - 自作キーボード
 ---
 
 

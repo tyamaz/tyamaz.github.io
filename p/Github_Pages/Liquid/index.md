@@ -1,5 +1,8 @@
 ---
 title: Github Pages / Liquid
+aliase:
+  - Github Pages / Liquid
+  - Liquid
 ---
 
 Github Pages で使われているテンプレート言語？である `Liquid` に関して
