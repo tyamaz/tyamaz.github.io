@@ -1,5 +1,7 @@
 ---
 title: STAEDTLER シャープペンシル 925 25-20
+aliases:
+  - STAEDTLER シャープペンシル 925 25-20
 tags: [文房具,ペン]
 ---
 

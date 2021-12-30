@@ -1,5 +1,7 @@
 ---
 title: プラチナ万年筆 PRESS MAN 0.9
+aliases:
+  - プラチナ万年筆 PRESS MAN 0.9
 tags: [文房具,ペン]
 ---
 

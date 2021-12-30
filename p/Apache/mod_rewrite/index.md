@@ -1,5 +1,7 @@
 ---
 title: Apache / mod_rewrite
+aliases:
+  - Apache / mod_rewrite
 ---
 
 

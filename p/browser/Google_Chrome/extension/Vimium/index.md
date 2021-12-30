@@ -1,5 +1,7 @@
 ---
 title: Google Chrome / 拡張 / Vimium
+aliases:
+  - Google Chrome / 拡張 / Vimium
 ---
 
 Chrome の操作を Vim っぽくできる拡張。
