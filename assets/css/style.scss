@@ -48,6 +48,9 @@ p > code{
   padding: 2px 4px;
   font-family: 'Fira Mono', 'Noto Sans JP', monospace;
 }
+p > img{
+    max-width: 90vw;
+}
 ul code{
   background-color: #282828;
   color: #b48ead;
