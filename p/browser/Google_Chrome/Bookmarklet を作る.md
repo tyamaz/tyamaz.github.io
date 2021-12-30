@@ -60,9 +60,12 @@ URL欄に突っ込むという性質上、JS なんでも入れられるわけ�
 
 ↑をやったものが
 
+
+{% raw %}
 ```
 javascript:void%20function(){let%20a=location.href;a=a.split(%22(%22).join(%22%2528%22),a=a.split(%22)%22).join(%22%2529%22);let%20b=document.querySelector(%22title%22).innerText.split(%22\n%22).join(%22%20%22).trim();b=b.split(%22\\%22).join(%22\\\\%22),b=b.split(%22`%22).join(%22\\`%22),b=b.split(%22*%22).join(%22\\*%22),b=b.split(%22_%22).join(%22\\_%22),b=b.split(%22[%22).join(%22\\[%22),b=b.split(%22]%22).join(%22\\]%22),b=b.split(%22{%22).join(%22\\{%22),b=b.split(%22}%22).join(%22\\}%22),b=b.split(%22(%22).join(%22\\(%22),b=b.split(%22)%22).join(%22\\)%22),b=b.split(%22+%22).join(%22\\+%22),b=b.split(%22-%22).join(%22\\-%22),b=b.split(%22.%22).join(%22\\.%22),b=b.split(%22!%22).join(%22\\!%22),b=b.split(%22%23%22).join(%22\\%23%22);const%20c=%22[%22+b+%22](%22+a+%22)%22;navigator.clipboard.writeText(c)}();
 ```
+{% endraw %}
 
 
 
