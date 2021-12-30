@@ -1,5 +1,6 @@
 ---
 title: ベース
+alias: [bass,ベース]
 ---
 
 

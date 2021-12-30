@@ -1,10 +1,12 @@
 ---
 title: 💎 Obsidian
+aliases: [Obsidian]
 ---
 
-メモツール Obsidian に関してのこと
+メモツール Obsidian に関してのこと。日本語
 
 - [Obsidian_で_Github_Pages_用の_markdown_ファイルを編集](Obsidian_で_Github_Pages_用の_markdown_ファイルを編集.md)
 - 外部リンク
   - [Obsidian Help](https://help.obsidian.md/Obsidian/Index)
+
 
