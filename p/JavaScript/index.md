@@ -1,6 +1,10 @@
 ---
 title: 🦏 JavaScript
+aliases:
+  - JavaScript
 ---
+
+
 
 
 
