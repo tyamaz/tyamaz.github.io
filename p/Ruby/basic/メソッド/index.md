@@ -1,5 +1,8 @@
 ---
 title: Ruby / 基礎 / メソッド
+aliases:
+  - Ruby / 基礎 / メソッド
+  - メソッド
 ---
 
 Ruby 1.8.6

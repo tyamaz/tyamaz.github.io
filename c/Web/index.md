@@ -1,5 +1,7 @@
 ---
 title: Web
+aliases:
+  - Web
 ---
 
 Web 上のコンテンツを適当に集める

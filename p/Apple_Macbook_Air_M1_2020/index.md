@@ -1,6 +1,7 @@
 ---
 title: Apple Macbook Air M1 2020
-aliases: ["Apple Macbook Air M1 2020"]
+aliases:
+  - Apple Macbook Air M1 2020
 ---
 
 購入スペック
