@@ -5,8 +5,7 @@ aliases:
   - math
 ---
 
-
-aa $\phi$  aa
+- [三角関数](三角関数.md)
 
 
 

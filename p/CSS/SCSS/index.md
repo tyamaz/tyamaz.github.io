@@ -2,6 +2,8 @@
 title: SCSS
 aliases:
   - SCSS
+tags:
+  - CSS
 ---
 
 

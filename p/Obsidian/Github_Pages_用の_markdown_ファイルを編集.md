@@ -2,6 +2,8 @@
 title: Obsidian / Github Pages 用の markdown ファイルを編集
 aliases:
   - Obsidian / Github Pages 用の markdown ファイルを編集
+tags:
+  - d/2021/12
 ---
 
 

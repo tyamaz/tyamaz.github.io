@@ -2,6 +2,8 @@
 title: Apple Macbook Air M1 2020
 aliases:
   - Apple Macbook Air M1 2020
+tags:
+  - d/2021/10/30
 ---
 
 購入スペック

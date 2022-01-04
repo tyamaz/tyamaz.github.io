@@ -9,6 +9,7 @@ aliases:
 ※ ここでの記録の大半が `Github Pages` 特有でもない `markdown` と `Jekyll` に関する説明になると思う。Github Pages が提供する素の機能を使ってどうするのかという話。`Github Actions` を使ったりローカルでビルドするのはある意味なんでもできるので別にここで説明しないと思う。
 
 
+- [数式を表示する](数式を表示する.md)
 - [HelloWorld](HelloWorld.md)
 - [Markdown](markdown/index.md)
 - [Github Pages 用の markdown ファイルを編集](../Obsidian/Github_Pages_用の_markdown_ファイルを編集.md)

@@ -1,6 +1,9 @@
 ---
 title: Galaxy Tab S7 / NoteShelf
-tags: [アプリ,トラブル]
+tags:
+  - アプリ
+  - トラブル
+  - d/2021
 ---
 
 
