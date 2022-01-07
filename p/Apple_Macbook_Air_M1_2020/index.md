@@ -173,10 +173,7 @@ mac 向けは eset cyber security pro というものっぽい
 
 iterm2 のインストール
 --------------------------------------------------------------------------------
-
-```console
-$ brew install iterm2
-```
+[iTerm2 / Install](iTerm2/Install.md)
 
 
 neovim のインストール

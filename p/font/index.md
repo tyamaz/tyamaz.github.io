@@ -3,11 +3,14 @@ title: Font
 aliases:
   - Font
   - フォント
+tags:
+  - フォント
 ---
 
 フォントに関する話題
 
-- [Windows の Chrome の表示されるフォントが汚い理由](Windows_の_Chrome_の表示されるフォントが汚い理由.md)
+- [M PLUS Rounded 1c が小さい文字でジャギーが出る](../browser/Google_Chrome/etc/M_PLUS_Rounded_1c_が小さい文字でジャギーが出る.md)
+- [Windows の Chrome の表示されるフォントが汚い理由](../browser/Google_Chrome/etc/Windows_の_Chrome_の表示されるフォントが汚い理由.md)
 - font
   - [yuru7/Firge: Fira Mono と源真ゴシックを合成したプログラミングフォント Firge \(ファージ\)](https://github.com/yuru7/Firge)
   - [Noto Sans Japanese \- Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans+JP)

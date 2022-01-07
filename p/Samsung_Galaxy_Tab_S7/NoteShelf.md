@@ -1,5 +1,8 @@
 ---
 title: Galaxy Tab S7 / NoteShelf
+aliases:
+  -  Galaxy Tab S7 / NoteShelf
+  -  NoteShelf
 tags:
   - アプリ
   - トラブル
