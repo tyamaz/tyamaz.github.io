@@ -132,6 +132,7 @@ Java ではオブジェクトの内容はクラスとして定義されていて
 趣味なので、責任も無いし、義務でも無い。死に至る機能を作り込んだとしても知ったことじゃない。
 
 - [Apache Log4jの脆弱性とともに浮かび上がったオープンソースのメンテナの責任範囲の問題 \- YAMDAS現更新履歴](https://yamdas.hatenablog.com/entry/20211222/apache-log4j)
+- [OSSのゆく道：Faker\.jsの顛末｜Takahiro Ito｜note](https://note.com/takahiroyte/n/nd6cceae3af04)
 
 たまたまダムの隣に住んでいたので普段はボランティアで水門調整してたら、決壊した時にどうにかしろみたいな。
 

@@ -75,6 +75,44 @@ javascript:void%20function(){let%20a=location.href;a=a.split(%22(%22).join(%22%2
 
 
 
+改良
+================================================================================
+これだと `writeText` の仕様の関係上 `HTTPS` でしか動作しないので、`HTTP` でも動作するようにする。
+
+
+```javascript
+    let url = location.href;
+    url = url.split("(").join("%28");
+    url = url.split(")").join("%29");
+    let title = document.querySelector("title").innerText.split("\n").join(" ").trim();
+    title = title.split("\\").join("\\\\");
+    title = title.split("`").join("\\`");
+    title = title.split("*").join("\\*");
+    title = title.split("_").join("\\_");
+    title = title.split("[").join("\\[");
+    title = title.split("]").join("\\]");
+    title = title.split("{").join("\\{");
+    title = title.split("}").join("\\}");
+    title = title.split("(").join("\\(");
+    title = title.split(")").join("\\)");
+    title = title.split("+").join("\\+");
+    title = title.split("-").join("\\-");
+    title = title.split(".").join("\\.");
+    title = title.split("!").join("\\!");
+    title = title.split("#").join("\\#");
+    const mdLink='[' + title + '](' + url + ')';
+    try{
+        navigator.clipboard.writeText(mdLink);
+    }catch(e){
+        window.prompt('markdow link', mdLink);
+    }
+```
+
+こんな感じでいいだろう
+
+
+
+
 
 
 

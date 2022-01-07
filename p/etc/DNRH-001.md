@@ -36,6 +36,6 @@ Windows Update
 
 参考サイト
 ================================================================================
+- [UPS内蔵PC DNRH\-001: 清水 隆夫の「Good Job \!」](http://tshimizu.cocolog-nifty.com/good_job/2008/04/dnrh001.html)
 
-[清水 隆夫の「Good Job !」: UPS内蔵PC DNRH-001>http://tshimizu.cocolog-nifty.com/good_job/2008/04/dnrh001.html]]
 
