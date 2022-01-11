@@ -133,6 +133,9 @@ Java ではオブジェクトの内容はクラスとして定義されていて
 
 - [Apache Log4jの脆弱性とともに浮かび上がったオープンソースのメンテナの責任範囲の問題 \- YAMDAS現更新履歴](https://yamdas.hatenablog.com/entry/20211222/apache-log4j)
 - [OSSのゆく道：Faker\.jsの顛末｜Takahiro Ito｜note](https://note.com/takahiroyte/n/nd6cceae3af04)
+- [colorsなどのnpmパッケージに悪意あるコードが含まれている問題について](https://zenn.dev/azu/articles/d56615b2e11ad1)
+  - ↑の Facker.js の顛末の火事ですべてを失った人のさらなる顛末。ソフトウェアは高い
+- [OSS「faker\.js」と「colors\.js」の開発者、自身でライブラリを意図的に改ざん　「ただ働きはもうしない」 \- ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2201/11/news160.html)
 
 たまたまダムの隣に住んでいたので普段はボランティアで水門調整してたら、決壊した時にどうにかしろみたいな。
 
