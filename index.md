@@ -3,12 +3,12 @@ title: 🏠 Home
 ---
 
 - よく使う集
-  - [JavaScript](p/JavaScript/index.md)
-  - [CSS](p/CSS/index.md)
+  - [JavaScript](n/PGM/JavaScript/index.md)
+  - [CSS](n/PGM/CSS/index.md)
 
 
 
-- [🖖PGM](p/index.md)
-- [コンテンツ系の何か](c/index.md)
-- [なんかモノ](o/index.md)
-- [その他](etc/index.md)
+- [🖖PGM](n/PGM/index.md)
+- [コンテンツ系の何か](index.md)
+- [なんかモノ](n/o/index.md)
+- [その他](n/etc/index.md)
