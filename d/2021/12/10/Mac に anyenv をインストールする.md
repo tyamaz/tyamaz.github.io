@@ -1,10 +1,13 @@
 ---
 title: anyenv
 aliases: [anyenv]
+tags:
+  - d/2021/12/10
+  - n/PGM/gg/Apple_Macbook_Air_M1_2020/anyenv
 ---
 
-Install
-================================================================================
+Apple Macbook Air M1 2020 環境での話
+
 2021-12-10 現在の方法
 
 公式に従う

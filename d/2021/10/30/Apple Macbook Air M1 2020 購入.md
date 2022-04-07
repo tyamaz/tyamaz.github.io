@@ -173,7 +173,7 @@ mac 向けは eset cyber security pro というものっぽい
 
 iterm2 のインストール
 --------------------------------------------------------------------------------
-[iTerm2 / Install](iTerm2/Install.md)
+[iTerm2 / Install](../../12/10/iTerm2%20をインストールする.md)
 
 
 neovim のインストール
