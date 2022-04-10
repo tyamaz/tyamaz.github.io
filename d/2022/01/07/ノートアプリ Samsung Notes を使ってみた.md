@@ -4,6 +4,7 @@ aliases:
   - Samsung Notes
 tags:
   - d/2022/01/07
+  - n/PGM/gg/Samsung_Galaxy_Tab_S7/Samsung_Notes
 ---
 
 

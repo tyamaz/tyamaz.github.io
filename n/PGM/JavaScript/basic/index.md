@@ -4,6 +4,6 @@ aliases:
   - JavaScript / 基礎
 ---
 
-- [例外処理](例外処理.md)
+- [JavaScript 基礎 例外処理](../../../../d/2022/01/05/JavaScript%20基礎%20例外処理.md)
 
 

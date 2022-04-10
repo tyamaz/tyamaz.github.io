@@ -4,6 +4,6 @@ aliases:
   - Java / etc
 ---
 
-- [2021-12 Log4Shell 問題](2021-12_Log4Shell_問題.md)
+- [2021-12 Log4Shell 問題](../../../../d/2021/12/29/Log4Shell%20問題.md)
 
 

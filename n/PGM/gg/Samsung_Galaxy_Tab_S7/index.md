@@ -9,7 +9,7 @@ tags:
 ---
 
 - [NoteShelf](NoteShelf.md)
-- [Samsung Notes](Samsung_Notes.md)
+- [Samsung Notes](../../../../d/2022/01/07/ノートアプリ%20Samsung%20Notes%20を使ってみた.md)
 
 
 

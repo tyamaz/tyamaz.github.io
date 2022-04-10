@@ -2,7 +2,8 @@
 title: Ruby / 基礎 / メソッド
 aliases:
   - Ruby / 基礎 / メソッド
-  - メソッド
+tags:
+  - d/2007/03/12
 ---
 
 Ruby 1.8.6

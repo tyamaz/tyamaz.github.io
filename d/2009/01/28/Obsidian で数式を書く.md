@@ -2,7 +2,9 @@
 title: Obsidian / 数式を書く
 aliase:
   - Obsidian / 数式を書く
-tags: [数学]
+tags:
+  - 数学
+  - d/2021/12/29
 ---
 
 `Obsidian` は `MathJax` が統合されているっぽくそれに基づいて書けばいいようだ。

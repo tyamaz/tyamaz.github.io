@@ -2,6 +2,7 @@
 title: Obsidian / Vault 指定で起動する
 aliases:
   - Obsidian / Vault 指定で起動する
+  - d/2021/12/29
 ---
 
 Vault(保管庫)指定で起動する方法。Windows編。

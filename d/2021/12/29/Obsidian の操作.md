@@ -2,6 +2,8 @@
 title: Obsidian / 操作
 aliases:
   - Obsidian / 操作
+tags:
+  - d/2021/12/29
 ---
 
 最低限(キーボードで)できないといけないこと。

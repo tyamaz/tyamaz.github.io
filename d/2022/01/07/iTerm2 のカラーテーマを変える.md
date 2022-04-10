@@ -6,6 +6,7 @@ tags:
   - d/2022/01/07
   - iTerm2/3.4.12
   - Mac
+  - n/PGM/gg/Apple_Macbook_Air_M1_2020/iTerm2
 ---
 
 ここからよさげな色を選ぶ [Iterm Themes \- Color Schemes and Themes for Iterm2](https://iterm2colorschemes.com/)

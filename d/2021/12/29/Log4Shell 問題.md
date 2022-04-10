@@ -1,11 +1,11 @@
 ---
-title: 2021年12月 Log4Shell 問題
+title: Log4Shell 問題
 aliases:
-  - 2021年12月 Log4Shell 問題
+  - Log4Shell 問題
 tags:
   - Java
   - トラブル
-  - d/2021/12
+  - d/2021/12/29
 ---
 
 2021年12月付近に大きな問題になった `Log4j2` の脆弱性を利用した任意のコード実行できるやつ。

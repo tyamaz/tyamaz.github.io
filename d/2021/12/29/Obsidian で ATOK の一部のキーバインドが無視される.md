@@ -2,8 +2,12 @@
 title: Obsidian / ATOK の一部のキーバインドが無視される
 aliases:
   - Obsidian / ATOK の一部のキーバインドが無視される
-tags: [IME]
+tags:
+  - IME
+  - d/2021/12/29
 ---
+
+Windows10 環境
 
 変換の文節伸縮等の操作ができないように思える。変換文節の伸縮ができないのは困る。
 
