@@ -3,7 +3,7 @@ title: 🏠 Home
 ---
 
 - [名前ベースツリー](n/index.md)
-- [時刻ベースツリー](n/PGM/Linux/d/index.md)
+- [時刻ベースツリー](d/index.md)
 - よく使う集
   - [JavaScript](n/PGM/JavaScript/index.md)
   - [CSS](n/PGM/CSS/index.md)
