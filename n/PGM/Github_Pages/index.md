@@ -12,7 +12,7 @@ aliases:
 - [数式を表示する](数式を表示する.md)
 - [HelloWorld](HelloWorld.md)
 - [Markdown](markdown/index.md)
-- [Github Pages 用の markdown ファイルを編集](../../../d/2021/12/29/Obsidian%20で%20Github%20Pages%20用の%20markdown%20ファイルを編集.md)
+- [Obsidian_で_Github_Pages_用の_markdown_ファイルを編集](../../../d/2021/12/29/Obsidian_で_Github_Pages_用の_markdown_ファイルを編集.md)
 - 外部リンク
   - [Jekyll • Simple, blog\-aware, static sites \| Transform your plain text into static websites and blogs](https://jekyllrb.com/) 2021-12-18 現在 Github Pages ではバージョン 3.9
 
