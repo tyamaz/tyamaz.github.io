@@ -16,7 +16,7 @@ tags:
 
 Galaxy に限らず Android なら大体同じだと思われる。
 
-[Galaxy Z Flip 3 を開発者モードにする](Galaxy%20Z%20Flip%203%20を開発者モードにする.md) の方法で開発者モードにする。
+[Galaxy_Z_Flip_3_を開発者モードにする](Galaxy_Z_Flip_3_を開発者モードにする.md) の方法で開発者モードにする。
 
 
 設定の開発者メニューから USBデバッグを ON にする。

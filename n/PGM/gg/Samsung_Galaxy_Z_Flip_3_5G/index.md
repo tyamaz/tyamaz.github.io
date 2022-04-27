@@ -8,5 +8,5 @@ tags:
 
 
 
-- [Galaxy Z Flip 3 を開発者モードにする](../../../../d/2022/04/27/Galaxy%20Z%20Flip%203%20を開発者モードにする.md)
-- [Galaxy Z Flip 3 で Chrome をリモートデバッグする](../../../../d/2022/04/27/Galaxy%20Z%20Flip%203%20で%20Chrome%20をリモートデバッグする.md)
+- [Galaxy_Z_Flip_3_を開発者モードにする](../../../../d/2022/04/27/Galaxy_Z_Flip_3_を開発者モードにする.md)
+- [Galaxy_Z_Flip_3_で_Chrome_をリモートデバッグする](../../../../d/2022/04/27/Galaxy_Z_Flip_3_で_Chrome_をリモートデバッグする.md)
