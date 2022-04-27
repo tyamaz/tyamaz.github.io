@@ -2,7 +2,7 @@
 title: 🏠 Home
 ---
 
-- [名前ベースツリー](n/index.md)
+- [名前ベースツリー](n/PGM/tools/Obsidian/index.md)
 - [時刻ベースツリー](d/index.md)
 - よく使う集
   - [JavaScript](n/PGM/JavaScript/index.md)
