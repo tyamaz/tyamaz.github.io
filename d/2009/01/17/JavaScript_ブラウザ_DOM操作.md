@@ -1,10 +1,9 @@
 ---
 title: JavaScript / ブラウザ操作 / DOM
 aliases:
-  - DOM
   - JavaScript / ブラウザ操作 / DOM
 tags:
-  - old
+  - d/2009/01/17
 ---
 
 

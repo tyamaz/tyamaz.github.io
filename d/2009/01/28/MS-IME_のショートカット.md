@@ -1,7 +1,7 @@
 ---
-title: MS-IME
+title: MS-IME のショートカット
 aliases:
-  - MS-IME
+  - MS-IME のショートカット
 tags:
   - d/2009/01/28
 ---

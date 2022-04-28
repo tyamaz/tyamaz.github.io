@@ -1,9 +1,9 @@
 ---
-title: index
+title: 2007-03
 aliases:
-  - index
+  - 2007-03
 tags:
   - d/2022/04/22
 ---
 
-- [Ruby 基礎 メソッド](12/Ruby%20基礎%20メソッド.md)
+- [Ruby_基礎_メソッド](12/Ruby_基礎_メソッド.md)
