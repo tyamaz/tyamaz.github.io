@@ -1,7 +1,7 @@
 ---
-title: JaavaScript / 基礎 / 例外処理
+title: JaavaScript_Basic_例外処理
 aliases:
-  - JavaScript / 基礎 / 例外処理
+  - JavaScript_Basic_例外処理
 tags:
   - d/2022/01/05
 ---
@@ -14,5 +14,7 @@ try{
 
 }
 ```
+
+
 
 

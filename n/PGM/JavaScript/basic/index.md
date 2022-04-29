@@ -1,9 +1,9 @@
 ---
-title: JavaScript / 基礎
+title: JavaScript_Basic
 aliases:
-  - JavaScript / 基礎
+  - JavaScript_Basic
 ---
 
-- [JavaScript 基礎 例外処理](../../../../d/2022/01/05/JavaScript%20基礎%20例外処理.md)
+- [JavaScript_Basic_例外処理](../../../../d/2022/01/05/JavaScript_Basic_例外処理.md)
 
 

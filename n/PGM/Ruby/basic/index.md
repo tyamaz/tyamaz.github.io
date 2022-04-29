@@ -1,11 +1,11 @@
 ---
-title: Ruby / 基礎
+title: Ruby_Basic
 aliases:
-  - Ruby / 基礎
+  - Ruby_Basic
 ---
 
 
-- [2007-03-12 メソッド](../../../../d/2007/03/12/Ruby_基礎_メソッド.md)
+- [2007-03-12_Ruby_Basic_メソッド](../../../../d/2007/03/12/Ruby_Baisc_メソッド.md)
 
 
 

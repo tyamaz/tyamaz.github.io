@@ -1,7 +1,7 @@
 ---
-title: Ruby / 基礎 / メソッド
+title: Ruby_Basic_メソッド
 aliases:
-  - Ruby / 基礎 / メソッド
+  - Ruby_Basic_メソッド
 tags:
   - d/2007/03/12
 ---
