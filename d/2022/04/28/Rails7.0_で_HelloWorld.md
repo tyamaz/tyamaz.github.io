@@ -4,8 +4,7 @@ aliases:
   - Rails7.0 で HelloWorld
 tags:
   - d/2022/04/28
-  - Ruby
-  - Rails/7_0
+  - n/PGM/Ruby/Rails/7_0
 ---
 
 Linux Mint 20.1 環境

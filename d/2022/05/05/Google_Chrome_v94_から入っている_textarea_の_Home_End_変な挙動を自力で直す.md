@@ -64,8 +64,8 @@ ta.value.substr(ta.selectionStart - 1, 1) == "\n"
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  unko
-// @author       ya
-// @match        https://ever-rise.backlog.jp/wiki/*/edit
+// @author       hoge
+// @match        https://example.com
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==

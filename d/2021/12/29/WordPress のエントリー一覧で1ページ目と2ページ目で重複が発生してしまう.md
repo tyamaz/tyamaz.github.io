@@ -1,8 +1,7 @@
 ---
 title: WordPress / エントリー一覧で1ページ目と2ページ目で重複が発生してしまう
 tags:
-  - トラブル
-  - WordPress
+  - n/PGM/WordPress/トラブル
   - d/2021/12/29
 ---
 

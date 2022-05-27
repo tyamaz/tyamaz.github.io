@@ -5,9 +5,9 @@ aliases:
   - M PLUS Rounded 1c が小さい文字でジャギーが出る
 tags:
   - d/2022/01/07
-  - フォント
-  - Google Chrome
-  - Windows
+  - n/PGM/フォント
+  - n/PGM/Google_Chrome
+  - n/PGM/Windows
 ---
 
 このフォント

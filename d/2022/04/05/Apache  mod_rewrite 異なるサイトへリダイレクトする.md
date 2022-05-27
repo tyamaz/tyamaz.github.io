@@ -3,7 +3,7 @@ title: Apache mod_rewrite 異なるサイトへリダイレクトする
 aliases:
   - Apache mod_rewrite 異なるサイトへリダイレクトする
 tags:
-  - PGM/Apache/mod_rewrite
+  - n/PGM/Apache/mod_rewrite
 ---
 
 

@@ -3,8 +3,7 @@ title: Log4Shell 問題
 aliases:
   - Log4Shell 問題
 tags:
-  - Java
-  - トラブル
+  - n/PGM/Java/トラブル
   - d/2021/12/29
 ---
 

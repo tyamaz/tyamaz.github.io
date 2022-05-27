@@ -3,7 +3,7 @@ title: Obsidian / 数式を書く
 aliase:
   - Obsidian / 数式を書く
 tags:
-  - 数学
+  - n/数学
   - d/2021/12/29
 ---
 

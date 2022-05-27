@@ -4,8 +4,9 @@ aliases:
   - Google Chrome / Bookmarklet を作る
   - ブックマークレットを作る
 tags:
-  - ブックマークレット
-  - JavaScript
+  - n/PGM/Google_Chrome/ブックマークレット
+  - n/PGM/JavaScript
+  - d/2022/04/05
 ---
 
 ブラウザの URL 欄に JavaScript を貼り付けたら、あたかもその画面でそもそも埋まってたかのようにその JS コードが駆動できるアレを作る。

@@ -4,8 +4,8 @@ aliases:
   - Linux_Mint_に_SQLite3_をインストールする
 tags:
   - d/2022/04/29
-  - Linux_Mint/20_1
-  - SQLite3
+  - n/PGM/Linux_Mint/20_1
+  - n/DB/SQLite3
 ---
 
 2022-04-29 環境 Linux Mint 20.1

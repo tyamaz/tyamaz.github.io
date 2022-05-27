@@ -4,8 +4,9 @@ aliases:
   - Long Way Round
 tags:
   - d/2008/12/11
-  - バイク
-  - 旅
+  - n/c/TV/Long_Way_Round
+  - n/バイク
+  - n/旅
 ---
 
 2008-12-11 DVDにて視聴

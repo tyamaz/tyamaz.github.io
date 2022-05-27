@@ -4,10 +4,10 @@ aliases:
   - HTML / Flash要素の上に他の要素を重ねる方法
 tags:
   - d/2009/02/07
-  - old
-  - Firefox/2
-  - Firefox/3.0.6
-  - IE/7
+  - n/old
+  - n/PGM/Firefox/2
+  - n/PGM/Firefox/3_0_6
+  - n/PGM/IE/7
 ---
 
 

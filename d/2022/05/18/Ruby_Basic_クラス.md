@@ -4,7 +4,7 @@ aliases:
   - Ruby_Basic_クラス
 tags:
   - d/2022/05/18
-  - PGM/Ruby/Basic/クラス
+  - n/PGM/Ruby/Basic/クラス
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 title: Windows の Chrome の表示されるフォントが汚い理由
 tags:
-  - PGM/browser/Chrome
-  - フォント
+  - n/PGM/browser/Google_Chrome
+  - n/PGM/フォント
+  - d/2022/04/05
 ---
 
 主に Mac に比べて汚いというやつ。
