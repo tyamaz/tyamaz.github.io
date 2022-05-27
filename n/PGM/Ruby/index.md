@@ -1,11 +1,12 @@
 ---
-title: 🛑 Ruby
-aliases:
-  - Ruby
+title: Ruby
 ---
 
-- [基礎](basic/index.md)
-- [Linux_Mint_に_anyenv_を使って_Ruby_をインストールする](../../../d/2022/04/28/Linux_Mint_に_anyenv_を使って_Ruby_をインストールする.md)
-- [Windows10_に_Ruby_環境をインストールする](../../../d/2022/05/05/Windows10_に_Ruby_環境をインストールする.md)
+
+- [Basic](/n/PGM/Ruby/Basic/index.md)
+    - [クラス](/n/PGM/Ruby/Basic/クラス/index.md)
+        - [Ruby_Basic_クラス](/d/2022/05/18/Ruby_Basic_クラス.md)
+
+
 
 

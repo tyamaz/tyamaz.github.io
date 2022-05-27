@@ -1,5 +1,0 @@
----
-title: Firefox
-aliases:
-  - Firefox
----

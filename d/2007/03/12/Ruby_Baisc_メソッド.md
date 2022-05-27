@@ -4,6 +4,7 @@ aliases:
   - Ruby_Basic_メソッド
 tags:
   - d/2007/03/12
+  - PGM2/Ruby/Basic/メソッド
 ---
 
 Ruby 1.8.6

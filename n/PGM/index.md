@@ -1,30 +1,18 @@
 ---
-title: 🖖 PGM
-aliases:
-  - PGM
+title: PGM
 ---
 
-プログラミング的なプログラマー的な何か
 
-- [Java](Java/index.md)
-- [JavaScript](JavaScript/index.md)
-- [Ruby](Ruby/index.md)
-- [Obsidian](tools/Obsidian/index.md)
-- [Github Pages](Github_Pages/index.md)
-- [Google Sheets](etc/Google_Sheets/index.md)
-- [ブラウザ](browser/index.md)
-- [Apache](Apache/index.md)
-- [CSS](CSS/index.md)
-- [WordPress](WordPress/index.md)
-- [文字コード](文字コード/index.md)
-- [Editor](editor/index.md)
-- [Lenovo ThinkPad X1 Extreme Gen1](gg/Lenovo_ThinkPad_X1_Extreme_Gen1/index.md)
-- [Apple Macbook Air M1 2020](../../d/2021/10/30/Apple_Macbook_Air_M1_2020_購入.md)
-- [Samsung Galaxy Tab S7](gg/Samsung_Galaxy_Tab_S7/index.md)
-- [数学](etc/数学/index.md)
-- [ガジェット](gg/index.md)
-
-
+- [Apache](/n/PGM/Apache/index.md)
+    - [mod_rewrite](/n/PGM/Apache/mod_rewrite/index.md)
+        - [Apache mod_rewrite 異なるサイトへリダイレクトする](/d/2022/04/05/Apache  mod_rewrite 異なるサイトへリダイレクトする.md)
+- [browser](/n/PGM/browser/index.md)
+    - [Chrome](/n/PGM/browser/Chrome/index.md)
+        - [Windows の Chrome の表示されるフォントが汚い理由](/d/2022/04/05/Windows の Chrome の表示されるフォントが汚い理由.md)
+- [Ruby](/n/PGM/Ruby/index.md)
+    - [Basic](/n/PGM/Ruby/Basic/index.md)
+        - [クラス](/n/PGM/Ruby/Basic/クラス/index.md)
+            - [Ruby_Basic_クラス](/d/2022/05/18/Ruby_Basic_クラス.md)
 
 
 

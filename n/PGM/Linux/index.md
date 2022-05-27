@@ -1,6 +1,0 @@
----
-title: Linux
-aliases:
-  - Linux
----
-
