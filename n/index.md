@@ -3,6 +3,10 @@ title: n
 ---
 
 
+- [PGM](../n/PGM/index.md)
+- [PGM](PGM/index.md)
+- [PGM](./PGM/index.md)
+- [PGM](https://tyamaz.github.io/n/PGM/index.md)
 - [PGM](/n/PGM/index.md)
     - [Ruby](/n/PGM/Ruby/index.md)
         - [Basic](/n/PGM/Ruby/Basic/index.md)
