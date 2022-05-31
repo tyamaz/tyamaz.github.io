@@ -100,6 +100,7 @@ title: PGM
             - [ Google Chrome / ATOK で変換文節の表示がおかしい](./../../d/2022/04/05/Google Chrome ATOK で変換文節の表示がおかしい.md)
 - [Markdown](./Markdown/index.md)
     - [2021-12-29 Obsidian / Github Pages 用の markdown ファイルを編集](./../../d/2021/12/29/Obsidian_で_Github_Pages_用の_markdown_ファイルを編集.md)
+    - [2022-05-31 Github Pages の内部リンクの markdown 記法](./../../d/2022/05/31/Github_Pages_の内部リンクの_markdown_記法.md)
 - [WordPress](./WordPress/index.md)
     - [トラブル](./WordPress/トラブル/index.md)
 - [フォント](./フォント/index.md)
@@ -117,6 +118,10 @@ title: PGM
     - [Style](./CSS/Style/index.md)
         - [font-feature-settings](./CSS/Style/font-feature-settings/index.md)
             - [2022-05-30 CSS の font-feature-settings](./../../d/2022/05/30/CSS の font-feature-settings.md)
+- [Github_Pages](./Github_Pages/index.md)
+    - [2022-05-31 Github Pages の内部リンクの markdown 記法](./../../d/2022/05/31/Github_Pages_の内部リンクの_markdown_記法.md)
+- [Jekyll](./Jekyll/index.md)
+    - [2022-05-31 Github Pages の内部リンクの markdown 記法](./../../d/2022/05/31/Github_Pages_の内部リンクの_markdown_記法.md)
 - [old](./old/index.md)
     - [ USTREAM.TV](./../../d/xxxx/USTREAM.TV.md)
 
