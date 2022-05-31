@@ -77,7 +77,10 @@ title: n
             - [Galaxy Z Flip 3 で Chrome をリモートデバッグする](./../d/2022/04/27/Galaxy_Z_Flip_3_で_Chrome_をリモートデバッグする.md)
     - [Linux_Mint](./PGM/Linux_Mint/index.md)
         - [20_1](./PGM/Linux_Mint/20_1/index.md)
-            - [Linux_Mint_に_SQLite3_をインストールする](./../d/2022/04/29/Linux_Mint_に_SQLite3_をインストールする.md)
+            - [Linux Mint に SQLite3 をインストールする](./../d/2022/04/29/Linux_Mint_に_SQLite3_をインストールする.md)
+    - [DB](./PGM/DB/index.md)
+        - [SQLite3](./PGM/DB/SQLite3/index.md)
+            - [Linux Mint に SQLite3 をインストールする](./../d/2022/04/29/Linux_Mint_に_SQLite3_をインストールする.md)
     - [CSS](./PGM/CSS/index.md)
         - [Style](./PGM/CSS/Style/index.md)
             - [font-feature-settings](./PGM/CSS/Style/font-feature-settings/index.md)
@@ -109,9 +112,6 @@ title: n
     - [HTML / Flash要素の上に他の要素を重ねる方法](./../d/2009/02/07/Firefox_で_Flash_要素の上に他の要素を重ねる方法.md)
 - [科学](./科学/index.md)
     - [【読書】時間は存在しない カルロ・ロヴェッリ](./../d/2021/12/16/【読書】時間は存在しない_カルロ・ロヴェッリ.md)
-- [DB](./DB/index.md)
-    - [SQLite3](./DB/SQLite3/index.md)
-        - [Linux_Mint_に_SQLite3_をインストールする](./../d/2022/04/29/Linux_Mint_に_SQLite3_をインストールする.md)
 
 
 
