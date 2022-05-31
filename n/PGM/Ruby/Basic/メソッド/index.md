@@ -3,7 +3,7 @@ title: メソッド
 ---
 
 
-- [Ruby_Basic_メソッド](/d/2007/03/12/Ruby_Baisc_メソッド.md)
+- [Ruby_Basic_メソッド](./../../../../../d/2007/03/12/Ruby_Baisc_メソッド.md)
 
 
 
