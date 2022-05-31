@@ -3,7 +3,7 @@ title: USTREAM.TV
 aliases:
   - USTREAM.TV
 tags:
-  - old
+  - n/PGM/old
 ---
 
 そんなもんもあったね。昔デスクトップを中継するにはどうすればいいか考えていた。

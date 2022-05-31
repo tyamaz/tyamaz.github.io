@@ -3,7 +3,7 @@ title: Obsidian / ATOK の一部のキーバインドが無視される
 aliases:
   - Obsidian / ATOK の一部のキーバインドが無視される
 tags:
-  - IME
+  - n/PGM/IME
   - d/2021/12/29
 ---
 

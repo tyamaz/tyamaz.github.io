@@ -4,7 +4,7 @@ aliases:
   - Obsidian / Github Pages 用の markdown ファイルを編集
 tags:
   - d/2021/12/29
-  - Markdown
+  - n/PGM/Markdown
 ---
 
 
