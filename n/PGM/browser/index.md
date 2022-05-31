@@ -4,6 +4,9 @@ title: browser
 
 
 - [Firefox](./Firefox/index.md)
+    - [アドオン](./Firefox/アドオン/index.md)
+        - [Ubiquity](./Firefox/アドオン/Ubiquity/index.md)
+            - [2008-09-02 Firefox_Ubiquity](./../../../d/2008/09/02/Firefox_Ubiquity.md)
     - [3_0_3](./Firefox/3_0_3/index.md)
         - [2008-09-30 Javascript_フォームを送信しているのに_submit_イベントが発生しない](./../../../d/2008/09/30/Javascript_フォームを送信しているのに_submit_イベントが発生しない.md)
     - [2](./Firefox/2/index.md)

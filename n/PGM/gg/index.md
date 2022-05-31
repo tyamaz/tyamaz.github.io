@@ -3,6 +3,8 @@ title: gg
 ---
 
 
+- [NAS](./NAS/index.md)
+    - [2010-04-28 BUFFALO LS-CH500L](./../../../d/2010/04/28/BUFFALO_LS-CH500L.md)
 - [Apple_Macbook_Air_M1_2020](./Apple_Macbook_Air_M1_2020/index.md)
     - [iTerm2](./Apple_Macbook_Air_M1_2020/iTerm2/index.md)
         - [2021-10-30 iTerm2 / Install](./../../../d/2021/10/30/iTerm2_をインストールする.md)
