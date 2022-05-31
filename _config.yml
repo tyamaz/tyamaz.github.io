@@ -1,4 +1,3 @@
 markdown: kramdown
 kramdown:
     header_offset: 1
-baseurl: "https://tyamaz.github.io/"
