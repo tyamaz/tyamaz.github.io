@@ -3,7 +3,7 @@ title: comic
 ---
 
 
-- [望郷太郎](//n/c/book/comic/望郷太郎/index.md)
+- [望郷太郎](/n/c/book/comic/望郷太郎/index.md)
     - [【マンガ】望郷太郎 01巻](/d/2022/04/27/【マンガ】望郷太郎_01巻.md)
 
 
