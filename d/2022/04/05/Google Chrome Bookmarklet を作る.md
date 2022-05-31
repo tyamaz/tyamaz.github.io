@@ -4,7 +4,7 @@ aliases:
   - Google Chrome / Bookmarklet を作る
   - ブックマークレットを作る
 tags:
-  - n/PGM/Google_Chrome/ブックマークレット
+  - n/PGM/browser/Google_Chrome/ブックマークレット
   - n/PGM/JavaScript
   - d/2022/04/05
 ---

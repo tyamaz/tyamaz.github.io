@@ -6,7 +6,7 @@ aliases:
 tags:
   - d/2022/01/07
   - n/PGM/フォント
-  - n/PGM/Google_Chrome
+  - n/PGM/browser/Google_Chrome
   - n/PGM/Windows
 ---
 
