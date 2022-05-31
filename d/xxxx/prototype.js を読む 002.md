@@ -1,5 +1,7 @@
 ---
 title: prototype.js / 読む002
+tags:
+  - n/PGM/JavaScript/prototype.js/読む
 ---
 
 

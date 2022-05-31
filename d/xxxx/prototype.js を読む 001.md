@@ -1,5 +1,7 @@
 ---
 title: prototype.js / 読む001
+tags:
+  - n/PGM/JavaScript/prototype.js/読む
 ---
 
 少しずつ読んでいってみる。非常に丁寧に読んでいってみる。
