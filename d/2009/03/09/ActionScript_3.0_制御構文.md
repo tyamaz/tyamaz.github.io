@@ -1,5 +1,5 @@
 ---
-title: ActionScript_3.0_制御構文
+title: ActionScript 3.0 制御構文
 aliases:
   - ActionScript_3.0_制御構文
 tags:

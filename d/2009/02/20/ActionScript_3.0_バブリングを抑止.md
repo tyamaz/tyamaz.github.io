@@ -1,5 +1,5 @@
 ---
-title: ActionScript_3.0_バブリングを抑止
+title: ActionScript 3.0 バブリングを抑止
 aliases:
   - ActionScript_3.0_バブリングを抑止
 tags:
