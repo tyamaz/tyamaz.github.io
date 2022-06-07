@@ -1,10 +1,9 @@
 ---
-title: 旅
+title: 道具
 ---
 
 
-- [2008-12-11 Long Way Round](./../../d/2008/12/11/【TV】Long_Way_Round.md)
-- [登山](./登山/index.md)
+- [靴](./靴/index.md)
     - [2009-06-20 登山靴_Caravan_Grandking_GK-57](./../../d/2009/06/20/登山靴_Caravan_Grandking_GK-57.md)
 
 
