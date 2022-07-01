@@ -21,6 +21,7 @@ title: browser
     - [ブックマークレット](./Google_Chrome/ブックマークレット/index.md)
         - [2022-04-05 Google Chrome / Bookmarklet を作る](./../../../d/2022/04/05/Google Chrome Bookmarklet を作る.md)
 - [IE](./IE/index.md)
+    - [2009-02-07 JavaScript / ブラウザ操作 / イベント / バブリングを抑止する](./../../../d/2009/02/07/JavaScript_でバブリングを抑止する.md)
     - [7](./IE/7/index.md)
         - [2009-02-07 HTML / Flash要素の上に他の要素を重ねる方法](./../../../d/2009/02/07/Firefox_で_Flash_要素の上に他の要素を重ねる方法.md)
 

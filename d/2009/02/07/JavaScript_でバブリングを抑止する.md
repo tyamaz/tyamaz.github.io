@@ -4,7 +4,7 @@ aliases:
   - JavaScript / ブラウザ操作 / イベント / バブリングを抑止する
   - バブリングを抑止する
 tags:
-  - n/PGM/IE
+  - n/PGM/browser/IE
   - n/PGM/JavaScript/Ope/ブラウザ操作/イベント/バブリングを抑止する
   - d/2009/02/07
 ---
