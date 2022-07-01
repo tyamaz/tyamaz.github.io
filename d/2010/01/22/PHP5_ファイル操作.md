@@ -1,11 +1,11 @@
 ---
-title: PHP5_ファイル操作
+title: PHP5 ファイル操作
 aliases:
   - PHP5_ファイル操作
 tags:
   - d/2010/01/22
-  - n/PHP/5/Ope/ファイル操作
-  - n/PHP/Ope/ファイル操作
+  - n/PGM/PHP/5/Ope/ファイル操作
+  - n/PGM/PHP/Ope/ファイル操作
 ---
 
 

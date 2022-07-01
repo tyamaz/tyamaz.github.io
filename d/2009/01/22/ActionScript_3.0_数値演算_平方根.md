@@ -1,5 +1,5 @@
 ---
-title: ActionScript_3.0_数値演算_平方根
+title: ActionScript 3.0 数値演算 平方根
 aliases:
   - ActionScript_3.0_数値演算_平方根
 tags:

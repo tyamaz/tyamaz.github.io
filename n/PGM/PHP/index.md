@@ -3,6 +3,10 @@ title: PHP
 ---
 
 
+- [5](./5/index.md)
+    - [Ope](./5/Ope/index.md)
+        - [ファイル操作](./5/Ope/ファイル操作/index.md)
+            - [2010-01-22 PHP5 ファイル操作](./../../../d/2010/01/22/PHP5_ファイル操作.md)
 - [5.2](./5.2/index.md)
     - [2009-03-02 PHP SOAPクライアントを作る](./../../../d/2009/03/02/PHP_SOAPクライアントを作る.md)
 - [CakePHP](./CakePHP/index.md)
@@ -11,6 +15,9 @@ title: PHP
             - [2009-04-05 CakePHP1.2 controller の記述](./../../../d/2009/04/05/CakePHP1.2_controller_の記述.md)
     - [1.3](./CakePHP/1.3/index.md)
         - [2010-09-27 CakePHP 1.3 開発環境構築（Windows編）](./../../../d/2010/09/27/CakePHP_1.3_開発環境構築（Windows編）.md)
+- [Ope](./Ope/index.md)
+    - [ファイル操作](./Ope/ファイル操作/index.md)
+        - [2010-01-22 PHP5 ファイル操作](./../../../d/2010/01/22/PHP5_ファイル操作.md)
 - [Symfony](./Symfony/index.md)
     - [1.2](./Symfony/1.2/index.md)
         - [2009-01-06 Symfony1.2 Actionの記述 アプリ情報の取得](./../../../d/2009/01/06/Symfony1.2_Actionの記述_アプリ情報の取得.md)

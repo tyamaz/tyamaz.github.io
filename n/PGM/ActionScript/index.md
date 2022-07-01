@@ -13,7 +13,7 @@ title: ActionScript
             - [2009-01-09 ActionScript 3.0 裏で通信する](./../../../d/2009/01/09/ActionScript_3.0_裏で通信する.md)
         - [数値操作](./3.0/Ope/数値操作/index.md)
             - [2008-12-21 ActionScript 3.0 累乗計算](./../../../d/2008/12/21/ActionScript_3.0_累乗計算.md)
-            - [2009-01-22 ActionScript_3.0_数値演算_平方根](./../../../d/2009/01/22/ActionScript_3.0_数値演算_平方根.md)
+            - [2009-01-22 ActionScript 3.0 数値演算 平方根](./../../../d/2009/01/22/ActionScript_3.0_数値演算_平方根.md)
     - [イベント](./3.0/イベント/index.md)
         - [2009-02-20 ActionScript 3.0 バブリングを抑止](./../../../d/2009/02/20/ActionScript_3.0_バブリングを抑止.md)
     - [クラス](./3.0/クラス/index.md)
