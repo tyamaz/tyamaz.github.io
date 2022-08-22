@@ -1,11 +1,11 @@
 ---
-title: Git_インストール（WindowsXP編）
+title: Git インストール（WindowsXP編）
 aliases:
   - Git_インストール（WindowsXP編）
 tags:
   - d/2009/05/10
-  - d/PGM/VCS/Git/1.6.3
-  - d/PGM/Windows/WindowsXP/SP3
+  - n/PGM/VCS/Git/1.6.3
+  - n/PGM/Windows/WindowsXP/SP3
 ---
 
 - 2009年05月10日

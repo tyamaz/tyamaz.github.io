@@ -2,7 +2,7 @@
 title: Linux Mint に SQLite3 をインストールする
 tags:
   - d/2022/04/29
-  - n/PGM/Linux/d/Linux_Mint/20_1
+  - n/PGM/Linux/d/Linux_Mint/20.1
   - n/PGM/DB/SQLite3
 ---
 

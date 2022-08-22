@@ -1,11 +1,11 @@
 ---
-title: Git_一人で使ってみる（msysgit編）
+title: Git 一人で使ってみる（msysgit編）
 aliases:
   - Git_一人で使ってみる（msysgit編）
 tags:
   - d/2009/05/26
-  - d/PGM/Windows/WindowsXP/SP3
-  - d/PGM/VCS/Git/1.6.3
+  - n/PGM/Windows/WindowsXP/SP3
+  - n/PGM/VCS/Git/1.6.3
 ---
 
 - 2009年05月26日

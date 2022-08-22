@@ -1,5 +1,5 @@
 ---
-title: Linux_Mint_に_anyenv_を使って_Ruby_をインストールする
+title: Linux Mint に anyenv を使って Ruby をインストールする
 aliases:
   - Linux_Mint_に_anyenv_を使って_Ruby_をインストールする
 tags:

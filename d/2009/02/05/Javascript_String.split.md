@@ -4,7 +4,7 @@ aliases:
   - Javascript_String.split
 tags:
   - d/2009/02/05
-  - d/PGM/JavaScript/Ope/文字列操作
+  - n/PGM/JavaScript/Ope/文字列操作
 ---
 
 

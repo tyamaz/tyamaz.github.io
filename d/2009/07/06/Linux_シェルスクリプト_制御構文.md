@@ -4,7 +4,7 @@ aliases:
   - Linux_シェルスクリプト_制御構文
 tags:
   - d/2009/07/06
-  - d/Linux/シェルスクリプト/Basic/制御構文
+  - n/PGM/Linux/シェルスクリプト/Basic/制御構文
 ---
 
 - 2009年07月06日
