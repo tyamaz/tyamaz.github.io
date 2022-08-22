@@ -5,7 +5,6 @@ aliases:
 tags:
   - d/2009/07/17
   - n/PGM/Python/Ope/ファイル操作
-  - n/PGM/hogehoge/2.0
 ---
 
 - 2009年07月17日

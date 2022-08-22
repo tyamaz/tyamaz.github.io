@@ -4,7 +4,7 @@ aliases:
   - Javascript_form_の_submit_イベント
 tags:
   - d/2008/09/30
-  - n/PGM/browser/Firefox/3_0_3
+  - n/PGM/browser/Firefox/3.0.3
   - n/PGM/JavaScript/Ope/ブラウザ操作/イベント
 ---
 
