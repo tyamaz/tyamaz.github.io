@@ -4,7 +4,7 @@ aliases:
   - ActionScript_3.0_クラス変数
 tags:
   - d/2009/01/21
-  - n/PGM/ActionScript/3.0/クラス
+  - n/PGM/ActionScript/v3.0/クラス
 ---
 
 - ※注 かなり古い情報です

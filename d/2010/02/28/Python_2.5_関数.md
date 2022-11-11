@@ -4,7 +4,7 @@ aliases:
   - Python_2.5_関数
 tags:
   - d/2010/02/28
-  - n/PGM/Python/2.5/Basic/関数
+  - n/PGM/Python/v2.5/Basic/関数
 ---
 
 - 2010年02月28日

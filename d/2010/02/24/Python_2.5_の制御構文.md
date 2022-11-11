@@ -4,7 +4,7 @@ aliases:
   - Python_2.5_の制御構文
 tags:
   - d/2022/06/07
-  - n/PGM/Python/2.5/制御構文
+  - n/PGM/Python/v2.5/制御構文
 ---
 
 - ※ 古い情報です

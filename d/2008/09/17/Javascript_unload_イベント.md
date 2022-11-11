@@ -4,7 +4,8 @@ aliases:
   - Javascript_unload_イベント
 tags:
   - d/2008/09/17
-  - n/PGM/JavaScript/Ope/ブラウザ操作/イベント
+  - n/PGM/JavaScript/Ope/ブラウザ操作/イベント/unload
+  - n/PGM/browser/Firefox/v3.0
 ---
 
 - 2008年09月17日

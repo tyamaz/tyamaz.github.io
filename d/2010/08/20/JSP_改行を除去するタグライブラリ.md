@@ -4,7 +4,7 @@ aliases:
   - JSP_改行を除去するタグライブラリ
 tags:
   - d/2010/08/20
-  - n/PGM/Java/JSP/2.0
+  - n/PGM/Java/JSP/v2.0
 ---
 
 - 2010-08-20

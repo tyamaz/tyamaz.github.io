@@ -4,7 +4,7 @@ aliases:
   - PHP5_ファイル操作
 tags:
   - d/2010/01/22
-  - n/PGM/PHP/5/Ope/ファイル操作
+  - n/PGM/PHP/v5/Ope/ファイル操作
   - n/PGM/PHP/Ope/ファイル操作
 ---
 

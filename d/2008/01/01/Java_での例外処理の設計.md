@@ -1,5 +1,5 @@
 ---
-title: Javaでの 例外処理の設計
+title: Java での例外処理の設計
 aliases:
   - Java_での例外処理の設計
 tags:

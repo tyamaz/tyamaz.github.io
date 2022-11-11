@@ -4,6 +4,7 @@ aliases:
   - 40％キーボード_GNAP2.0_を作る
 tags:
   - d/2022/07/07
+  - n/PGM/gg/キーボード/GNAP/v2.0
 ---
 
 GNAP 2.0 とは

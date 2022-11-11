@@ -4,7 +4,7 @@ aliases:
   - ActionScript3.0_日時操作
 tags:
   - d/2009/02/13
-  - n/PGM/ActionScript/3.0
+  - n/PGM/ActionScript/v3.0
 ---
 
 

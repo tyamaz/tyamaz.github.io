@@ -4,7 +4,7 @@ aliases:
   - PHP_symfony1.2_モジュール作成
 tags:
   - d/2009/02/11
-  - n/PGM/PHP/Symfony/1.2 
+  - n/PGM/PHP/Symfony/v1.2 
 ---
 
 

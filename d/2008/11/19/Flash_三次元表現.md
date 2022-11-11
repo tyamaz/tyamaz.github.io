@@ -5,7 +5,7 @@ aliases:
 tags:
   - d/2008/11/19
   - n/PGM/Flash/CS3
-  - n/PGM/ActionScript/3.0
+  - n/PGM/ActionScript/v3.0
 ---
 
 - 2008年11月19日

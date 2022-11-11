@@ -6,7 +6,7 @@ tags:
   - d/2022/07/14
   - n/PGM/XML
   - n/PGM/Linux/コマンド
-  - n/PGM/Linux/d/Linux_Mint/20.1
+  - n/PGM/Linux/d/Linux_Mint/v20.1
 ---
 
 YAML を操作するための `jq` コマンドという位置づけの `yq` というコマンドがあり、そのオマケで XML も操作できるような`xq` コマンドがあるようなのでやってみる。

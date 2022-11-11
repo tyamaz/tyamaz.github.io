@@ -4,7 +4,7 @@ aliases:
   - sftp_コマンド
 tags:
   - d/2009/01/05
-  - n/PGM/Linux/コマンド
+  - n/PGM/Linux/コマンド/sftp
   - n/PGM/Linux/Ope/ファイル操作
 ---
 

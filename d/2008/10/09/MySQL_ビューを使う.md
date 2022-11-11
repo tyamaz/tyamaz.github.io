@@ -4,7 +4,7 @@ aliases:
   - MySQL_ビューを使う
 tags:
   - d/2008/10/09
-  - n/PGM/DB/MySQL/5.0
+  - n/PGM/DB/MySQL/v5.0
 ---
 
 - 2008年10月09日

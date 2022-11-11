@@ -4,7 +4,7 @@ aliases:
   - Symfony1.2_アプリケーション作成
 tags:
   - d/2009/01/06
-  - n/PGM/PHP/Symfony/1.2
+  - n/PGM/PHP/Symfony/v1.2
 ---
 
 - 2009年01月06日

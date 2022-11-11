@@ -6,7 +6,7 @@ tags:
   - d/2022/06/24
   - n/PGM/JavaScript/Ope/時刻操作
   - n/PGM/JavaScript/Node.js
-  - n/PGM/JavaScript/Moment.js/2.29.3
+  - n/PGM/JavaScript/Moment.js/v2.29.3
 ---
 
 インストール

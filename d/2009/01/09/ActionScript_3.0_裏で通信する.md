@@ -4,7 +4,7 @@ aliases:
   - ActionScript_3.0_裏で通信する
 tags:
   - d/2009/01/09
-  - n/PGM/ActionScript/3.0/Ope/ネットワーク操作
+  - n/PGM/ActionScript/v3.0/Ope/ネットワーク操作
 ---
 
 

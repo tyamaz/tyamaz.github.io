@@ -4,7 +4,7 @@ aliases:
   - ActionScript_3.0_型チェック
 tags:
   - d/2009/03/09
-  - n/PGM/ActionScript/3.0
+  - n/PGM/ActionScript/v3.0
 ---
 
 - 2009年03月09日

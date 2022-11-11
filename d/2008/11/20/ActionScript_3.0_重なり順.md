@@ -4,7 +4,7 @@ aliases:
   - ActionScript3.0_重なり順
 tags:
   - d/2008/11/20
-  - n/PGM/ActionScript/3.0
+  - n/PGM/ActionScript/v3.0
   - n/PGM/Flash
 ---
 

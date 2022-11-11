@@ -5,7 +5,7 @@ aliases:
 tags:
   - d/2022/07/18
   - n/PGM/Windows/PowerShell
-  - n/PGM/Linux/d/Linux_Mint/20.1
+  - n/PGM/Linux/d/Linux_Mint/v20.1
 ---
 
 Windows で使ってみてなかなか手応えが良かったので、Linux にも入れてみる。

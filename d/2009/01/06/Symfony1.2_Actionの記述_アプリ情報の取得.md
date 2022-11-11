@@ -4,7 +4,7 @@ aliases:
   - Symfony1.2_Actionの記述_アプリ情報の取得
 tags:
   - d/2009/01/06
-  - n/PGM/PHP/Symfony/1.2
+  - n/PGM/PHP/Symfony/v1.2/Action
 ---
 
 - 2009年01月06日

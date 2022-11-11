@@ -4,7 +4,7 @@ aliases:
   - ActionScript_3.0_数値演算_平方根
 tags:
   - d/2009/01/22
-  - n/PGM/ActionScript/3.0/Ope/数値操作
+  - n/PGM/ActionScript/v3.0/Ope/数値操作
 ---
 
 

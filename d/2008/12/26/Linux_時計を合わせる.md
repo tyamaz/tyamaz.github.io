@@ -5,6 +5,7 @@ aliases:
 tags:
   - d/2008/12/26
   - n/PGM/Linux/etc/時計
+  - n/PGM/Linux/運用
 ---
 
 ※注 2008年12月26日 非常に古い情報です

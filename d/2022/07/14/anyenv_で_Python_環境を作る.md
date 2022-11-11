@@ -4,7 +4,7 @@ aliases:
   - anyenv_で_Python_環境を作る
 tags:
   - d/2022/07/14
-  - n/PGM/Linux/d/Linux_Mint/20.1
+  - n/PGM/Linux/d/Linux_Mint/v20.1
   - n/PGM/Python/etc/pyenv
   - n/PGM/Linux/anyenv
 ---

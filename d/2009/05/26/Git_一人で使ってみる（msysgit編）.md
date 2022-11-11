@@ -5,7 +5,7 @@ aliases:
 tags:
   - d/2009/05/26
   - n/PGM/Windows/WindowsXP/SP3
-  - n/PGM/VCS/Git/1.6.3
+  - n/PGM/VCS/Git/v1.6.3
 ---
 
 - 2009年05月26日

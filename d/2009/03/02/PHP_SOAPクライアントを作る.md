@@ -4,7 +4,7 @@ aliases:
   - PHP_SOAPクライアントを作る
 tags:
   - d/2009/03/02
-  - n/PGM/PHP/5.2
+  - n/PGM/PHP/v5.2
 ---
 
 - 2009年03月02日

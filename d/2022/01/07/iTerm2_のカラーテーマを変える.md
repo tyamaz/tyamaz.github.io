@@ -4,7 +4,7 @@ aliases:
   - iTerm2 / カラーテーマを変える
 tags:
   - d/2022/01/07
-  - n/PGM/Mac/iTerm2/3.4.12
+  - n/PGM/Mac/iTerm2/v3.4.12
   - n/PGM/gg/Apple_Macbook_Air_M1_2020/iTerm2
 ---
 
