@@ -20,6 +20,9 @@ title: gg
         - [2022-01-07 Samsung Notes](./../../../d/2022/01/07/ノートアプリ_Samsung_Notes_を使ってみた.md)
 - [Vodafone_702NK](./Vodafone_702NK/index.md)
     - [2007-04-24 Nokia 6630(702NK) プログラミング環境構築](./../../../d/2007/04/24/Nokia_6630(702NK)_プログラミング環境構築.md)
+- [カメラ](./カメラ/index.md)
+    - [Sony_NEX-5R](./カメラ/Sony_NEX-5R/index.md)
+        - [2023-02-27 Sony NEX-5R のイロイロな問題](./../../../d/2023/02/27/Sony_NEX-5R_のイロイロな問題.md)
 - [キーボード](./キーボード/index.md)
     - [GNAP](./キーボード/GNAP/index.md)
         - [v2.0](./キーボード/GNAP/v2.0/index.md)
@@ -32,6 +35,8 @@ title: gg
             - [2022-09-29 マニ車キーキャップ](./../../../d/2022/09/29/マニ車キーキャップ.md)
 - [マウス](./マウス/index.md)
     - [2010-08-25 マウス Logicool Bluetooth Mouse M555b](./../../../d/2010/08/25/マウス_Logicool_Bluetooth_Mouse_M555b.md)
+- [充電器](./充電器/index.md)
+    - [2023-02-24 Anker PowerPort III 3-Port 65W Pod A2667 yasuo 仕様](./../../../d/2023/02/24/Anker_PowerPort_III_3-Port_65W_Pod_A2667_yasuo_仕様.md)
 
 
 

@@ -4,7 +4,7 @@ aliases:
   - CakePHP_1.3_開発環境構築（Windows編）
 tags:
   - d/2010/09/27
-  - n/PGM/PHP/CakePHP/1.3
+  - n/PGM/PHP/CakePHP/v1.3
   - n/PGM/PHP/XAMPP
 ---
 

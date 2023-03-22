@@ -3,9 +3,11 @@ title: ブラウザ操作
 ---
 
 
+- [2009-06-11 Javascript 実行中のscript要素を掴む](./../../../../../d/2009/06/11/Javascript_実行中のscript要素を掴む.md)
 - [2022-09-12 JavaScript contenteditable 要素の選択範囲を増減させる](./../../../../../d/2022/09/12/JavaScript_contenteditable_要素の選択範囲を増減させる.md)
 - [DOM](./DOM/index.md)
     - [2009-02-07 Javascript 要素を掴むテク](./../../../../../d/2009/02/07/Javascript_要素を掴むテク.md)
+    - [2009-03-25 Javascript textarea 内の改行の扱い](./../../../../../d/2009/03/25/Javascript_textarea_内の改行の扱い.md)
 - [Web_Worker](./Web_Worker/index.md)
     - [2022-08-19 JavaScript worker helloworld](./../../../../../d/2022/08/19/JavaScript_worker_helloworld.md)
 - [イベント](./イベント/index.md)

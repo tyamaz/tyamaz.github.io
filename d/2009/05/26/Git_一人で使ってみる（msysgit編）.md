@@ -4,7 +4,7 @@ aliases:
   - Git_一人で使ってみる（msysgit編）
 tags:
   - d/2009/05/26
-  - n/PGM/Windows/WindowsXP/SP3
+  - n/PGM/Windows/WindowsXP/vSP3
   - n/PGM/VCS/Git/v1.6.3
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: MySQL_照合順序
+title: MySQL 照合順序
 aliases:
   - MySQL_照合順序
 tags:

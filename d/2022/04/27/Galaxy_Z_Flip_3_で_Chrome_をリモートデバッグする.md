@@ -4,7 +4,7 @@ aliases:
   - Galaxy Z Flip 3 で Chrome をリモートデバッグする
 tags:
   - d/2022/04/27
-  - n/PGM/Android/12
+  - n/PGM/Android/v12
 ---
 
 環境

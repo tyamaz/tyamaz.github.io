@@ -4,7 +4,7 @@ aliases:
   - Flex3.0_MXMLとActionScriptの分離
 tags:
   - d/2009/02/28
-  - n/PGM/Flex/3.0
+  - n/PGM/Flex/v3.0
   - n/PGM/ActionScript
 ---
 

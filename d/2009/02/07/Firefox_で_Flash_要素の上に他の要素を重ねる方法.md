@@ -5,9 +5,9 @@ aliases:
 tags:
   - d/2009/02/07
   - n/old
-  - n/PGM/browser/Firefox/2
-  - n/PGM/browser/Firefox/3.0.6
-  - n/PGM/browser/IE/7
+  - n/PGM/browser/Firefox/v2
+  - n/PGM/browser/Firefox/v3.0.6
+  - n/PGM/browser/IE/v7
 ---
 
 

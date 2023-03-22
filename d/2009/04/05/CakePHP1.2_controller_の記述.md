@@ -4,7 +4,7 @@ aliases:
   - CakePHP1.2_controller_の記述
 tags:
   - d/2009/04/05
-  - n/PGM/PHP/CakePHP/1.2/Controller
+  - n/PGM/PHP/CakePHP/v1.2/Controller
 ---
 
 
